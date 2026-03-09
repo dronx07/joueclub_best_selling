@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(
 logger = logging.getLogger(__name__)
 
 class ProductRunner:
-    def __init__(self, category_urls, headless=False, min_delay=2, max_delay=5):
+    def __init__(self, category_urls, headless=True, min_delay=2, max_delay=5):
         self.category_urls = category_urls
         self.homepage = "https://www.joueclub.fr/"
         self.headless = headless
