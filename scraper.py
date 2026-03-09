@@ -79,7 +79,7 @@ class ProductRunner:
 
     @staticmethod
     def generate_page_urls(base_url, total_pages):
-        return [(page, f"{base_url}?pageNumber-3={page}") for page in range(1, total_pages + 1)]
+        return [(page, f"{base_url}?sortBy-3=title.asc&pageNumber-3={page}") for page in range(1, total_pages + 1)]
 
     async def collect_from_page(self, page_number, url):
         page = await self.context.new_page()
