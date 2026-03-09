@@ -223,7 +223,7 @@ async def main():
 
     runner = ProductRunner(
         category_urls,
-        headless=False,
+        headless=True,
         min_delay=2,
         max_delay=5
     )
