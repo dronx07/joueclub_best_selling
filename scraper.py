@@ -83,9 +83,6 @@ class ProductRunner:
 
         try:
             await page.goto(url, wait_until="load")
-
-            await page.click("button#didomi-notice-agree-button")
-
             selector = "span.product-list-count-value"
             await page.wait_for_selector(selector, timeout=30000)
 
