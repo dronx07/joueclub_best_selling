@@ -140,7 +140,7 @@ class ProductRunner:
         logger.info("Category completed")
 
 async def main():
-    category_urls = []  # Fill your category URLs here
+    category_urls = ['https://www.joueclub.fr/nos-univers/peluche.html', 'https://www.joueclub.fr/nos-univers/jeux-d-imitation.html', 'https://www.joueclub.fr/nos-univers/jeux-de-constructions-maquettes.html', 'https://www.joueclub.fr/nos-univers/jeux-educatifs.html', 'https://www.joueclub.fr/nos-univers/activites-creatives-et-manuelles.html', 'https://www.joueclub.fr/nos-univers/jouets-en-bois.html', 'https://www.joueclub.fr/nos-univers/poupees.html', 'https://www.joueclub.fr/nos-univers/jeux-de-societe.html', 'https://www.joueclub.fr/nos-univers/musiques-sons-images.html', 'https://www.joueclub.fr/nos-univers/puzzle.html', 'https://www.joueclub.fr/nos-univers/figurines.html', 'https://www.joueclub.fr/nos-univers/jeux-exterieurs-et-sports.html', 'https://www.joueclub.fr/nos-univers/chambre-enfants.html', 'https://www.joueclub.fr/nos-univers/fetes-et-anniversaires.html', 'https://www.joueclub.fr/nos-univers/piles-chargeurs-batteries.html', 'https://www.joueclub.fr/nos-univers/comme-a-l-ecole-rentree-scolaire.html', 'https://www.joueclub.fr/nos-univers/petits-cadeaux.html', 'https://www.joueclub.fr/nos-univers/bagagerie.html', 'https://www.joueclub.fr/nos-univers/jo-paris-2024.html', 'https://www.joueclub.fr/nos-univers/vehicules-garages.html']
     runner = ProductRunner(category_urls, headless=True, min_delay=2, max_delay=5)
     await runner.run()
 
