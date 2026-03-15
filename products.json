@@ -1,800 +1,3818 @@
 [
   {
-    "product_name": "200 BUCHETTES EN BOIS",
-    "product_gtin": "3393143308056",
+    "product_name": "PTI' COEUR KOALA - MON DOUDOU COROLLE",
+    "product_gtin": "4062013100616",
     "supplier_price": 34.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/200-buchettes-en-bois-3393143308056.html"
+    "product_link": "https://www.joueclub.fr/poupees/-pti-coeur-koala-mon-doudou-corolle-4062013100616.html"
   },
   {
-    "product_name": "5 CUBES D'EVEIL EN BOIS",
-    "product_gtin": "5404031204539",
-    "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/5-cubes-d-eveil-en-bois-5404031204539.html"
-  },
-  {
-    "product_name": "ANIMAUX A EMPILER",
-    "product_gtin": "3393143404499",
-    "supplier_price": 12.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/animaux-a-empiler-3393143404499.html"
-  },
-  {
-    "product_name": "BARIL 100 BUCHETTES",
-    "product_gtin": "3393143401603",
-    "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/baril-100-buchettes-3393143401603.html"
-  },
-  {
-    "product_name": "BATON DE PLUIE",
-    "product_gtin": "3393143393410",
-    "supplier_price": 13.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/baton-de-pluie-3393143393410.html"
-  },
-  {
-    "product_name": "BATONS EN FOLIE",
-    "product_gtin": "3393143341411",
-    "supplier_price": 12.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/batons-en-folie-3393143341411.html"
-  },
-  {
-    "product_name": "BLOCS DE CONSTRUCTION - 100 PIECES",
-    "product_gtin": "3393143404376",
-    "supplier_price": 26.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/blocs-de-construction-100-pieces-3393143404376.html"
-  },
-  {
-    "product_name": "BLOCS DE CONSTRUCTION - 50 PIECES",
-    "product_gtin": "3393143404369",
-    "supplier_price": 16.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/blocs-de-construction-50-pieces-3393143404369.html"
-  },
-  {
-    "product_name": "BOITE A FORMES D'EVEIL EN BOIS - SOUS LA CANOPEE",
-    "product_gtin": "3048700010650",
-    "supplier_price": 26.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/boite-a-formes-d-eveil-en-bois-sous-la-canopee-3048700010650.html"
-  },
-  {
-    "product_name": "BOITE A FORMES EN BOIS",
-    "product_gtin": "3393143398583",
+    "product_name": "ANIMAKII -  POUPEE CYBERPUNK/ GAMECCANOUSE",
+    "product_gtin": "3701405829506",
     "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/boite-a-formes-en-bois-3393143398583.html"
+    "product_link": "https://www.joueclub.fr/poupees/animakii-poupee-cyberpunk/-gameccanouse-3701405829506.html"
   },
   {
-    "product_name": "BOITE A OUTILS",
-    "product_gtin": "3393143404314",
-    "supplier_price": 39.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/boite-a-outils-3393143404314.html"
-  },
-  {
-    "product_name": "BRIO 33505 - TRAIN DE VOYAGEURS",
-    "product_gtin": "7312350335057",
+    "product_name": "ANIMAKII - POUPEE  MAGICIENNE / ECOLIERE",
+    "product_gtin": "3701405829520",
     "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/vehicules-garages/brio-33505-train-de-voyageurs-7312350335057.html"
+    "product_link": "https://www.joueclub.fr/poupees/animakii-poupee-magicienne-/-ecoliere-3701405829520.html"
   },
   {
-    "product_name": "BRIO 33696 - WAGON CONVOYEUR DE BOIS",
-    "product_gtin": "7312350336962",
-    "supplier_price": 12.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/brio-33696-wagon-convoyeur-de-bois-7312350336962.html"
-  },
-  {
-    "product_name": "BRIO 33697 - TRAIN GRANDE VITESSE",
-    "product_gtin": "7312350336979",
-    "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/brio-33697-train-grande-vitesse-7312350336979.html"
-  },
-  {
-    "product_name": "BRIO 33719 - CIRCUIT DE LA FERME",
-    "product_gtin": "7312350337198",
-    "supplier_price": 49.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/brio-33719-circuit-de-la-ferme-7312350337198.html"
-  },
-  {
-    "product_name": "BRIO 33815 - CIRCUIT ACTION POMPIER",
-    "product_gtin": "7312350338157",
-    "supplier_price": 49.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/brio-33815-circuit-action-pompier-7312350338157.html"
-  },
-  {
-    "product_name": "BRIO 7312350360172 - CIRCUIT LOCOMOTIVE A PILES A VAPEUR",
-    "product_gtin": "7312350360172",
-    "supplier_price": 74.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/brio-7312350360172-circuit-locomotive-a-piles-a-vapeur-7312350360172.html"
-  },
-  {
-    "product_name": "BUS MULTI-ACTIVITES EN BOIS",
-    "product_gtin": "5404031202863",
+    "product_name": "ARIEL- COFFRET POUPEE ARIEL SECRETS DE PERLE",
+    "product_gtin": "0194735259298",
     "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/bus-multi-activites-en-bois-5404031202863.html"
+    "product_link": "https://www.joueclub.fr/poupees/ariel-coffret-poupee-ariel-secrets-de-perle-0194735259298.html"
   },
   {
-    "product_name": "CAMELOT JR",
-    "product_gtin": "5414301518815",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/camelot-jr-5414301518815.html"
-  },
-  {
-    "product_name": "CAMION TRANSPORTEUR DE VEHICULES EN BOIS",
-    "product_gtin": "3393143398347",
+    "product_name": "BABIDOUX MARINE REVES D'ETOILES  20 CM - COROLLE MON DOUDOU",
+    "product_gtin": "4062013060040",
     "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/camion-transporteur-de-vehicules-en-bois-3393143398347.html"
+    "product_link": "https://www.joueclub.fr/poupees/babidoux-marine-reves-d-etoiles-20-cm-corolle-mon-doudou-4062013060040.html"
   },
   {
-    "product_name": "CEINTURE DE BRICOLAGE",
-    "product_gtin": "3393143404963",
-    "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/ceinture-de-bricolage-3393143404963.html"
+    "product_name": "BABIDOUX REVES D'ETOILES  20 CM - COROLLE MON DOUDOU",
+    "product_gtin": "4062013060057",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/babidoux-reves-d-etoiles-20-cm-corolle-mon-doudou-4062013060057.html"
   },
   {
-    "product_name": "CHARIOT A POUSSER",
-    "product_gtin": "3393143404222",
-    "supplier_price": 39.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/chariot-a-pousser-3393143404222.html"
+    "product_name": "BABIDOUX ROSE GRENADINE - 20 CM - COROLLE MON DOUDOU",
+    "product_gtin": "4062013060064",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/babidoux-rose-grenadine-20-cm-corolle-mon-doudou-4062013060064.html"
   },
   {
-    "product_name": "CHARIOT A POUSSER EN BOIS",
-    "product_gtin": "3393142974764",
+    "product_name": "BABINOUNOURS  - PELUCHE REVES D'ETOILES - COROLLE MON DOUDOU",
+    "product_gtin": "4062013020174",
     "supplier_price": 34.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/chariot-a-pousser-en-bois-3393142974764.html"
+    "product_link": "https://www.joueclub.fr/poupees/babinounours-peluche-reves-d-etoiles-corolle-mon-doudou-4062013020174.html"
   },
   {
-    "product_name": "CHARIOT MULTI-ACTIVITES",
-    "product_gtin": "3700217382698",
+    "product_name": "BABIPOUCE MARINE REVES D'ETOILES - COROLLE MON DOUDOU",
+    "product_gtin": "4062013020150",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/babipouce-marine-reves-d-etoiles-corolle-mon-doudou-4062013020150.html"
+  },
+  {
+    "product_name": "BABIPOUCE PAYS DES REVES 28 CM - MON DOUDOU COROLLE",
+    "product_gtin": "4062013020082",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/babipouce-pays-des-reves-28-cm-mon-doudou-corolle-4062013020082.html"
+  },
+  {
+    "product_name": "BABIPOUCE ROSE GRENADINE 28 CM - COROLLE MON DOUDOU",
+    "product_gtin": "4062013020167",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/babipouce-rose-grenadine-28-cm-corolle-mon-doudou-4062013020167.html"
+  },
+  {
+    "product_name": "BABY ALIVE - BEBE GRANDIT LALA GOOGOO",
+    "product_gtin": "5010996344380",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/baby-alive-bebe-grandit-lala-googoo-5010996344380.html"
+  },
+  {
+    "product_name": "BABY BORN GIGOTEUSE 36 CM",
+    "product_gtin": "4001167832479",
+    "supplier_price": 15.99,
+    "product_link": "https://www.joueclub.fr/poupees/baby-born-gigoteuse-36-cm-4001167832479.html"
+  },
+  {
+    "product_name": "BABY CARE - CRECHE",
+    "product_gtin": "3032162403075",
     "supplier_price": 79.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/chariot-multi-activites-3700217382698.html"
+    "product_link": "https://www.joueclub.fr/poupees/baby-care-creche-3032162403075.html"
   },
   {
-    "product_name": "CHATEAU FORT ET CATAPULTE - 270 PIECES",
-    "product_gtin": "3225280802800",
-    "supplier_price": 69.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/chateau-fort-et-catapulte-270-pieces-3225280802800.html"
+    "product_name": "BABY CARE CRECHE",
+    "product_gtin": "3032162403082",
+    "supplier_price": 66.99,
+    "product_link": "https://www.joueclub.fr/poupees/baby-care-creche-3032162403082.html"
   },
   {
-    "product_name": "CIRCUIT A BILLES EN BOIS",
-    "product_gtin": "3393143138158",
-    "supplier_price": 22.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/circuit-a-billes-en-bois-3393143138158.html"
-  },
-  {
-    "product_name": "CIRCUIT DE TRAIN DELUXE ECO+",
-    "product_gtin": "8058664179442",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/circuit-de-train-deluxe-eco-8058664179442.html"
-  },
-  {
-    "product_name": "COFFRET 50 REGLES",
-    "product_gtin": "3225280711003",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/coffret-50-regles-3225280711003.html"
-  },
-  {
-    "product_name": "COFFRET CIRCUIT DE TRAIN PORTABLE",
-    "product_gtin": "6943478050723",
-    "supplier_price": 49.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/coffret-circuit-de-train-portable-6943478050723.html"
-  },
-  {
-    "product_name": "COFFRET EN BOIS - OSSELETS",
-    "product_gtin": "3225280819303",
-    "supplier_price": 14.99,
-    "product_link": "https://www.joueclub.fr/jeux-de-societes/coffret-en-bois-osselets-3225280819303.html"
-  },
-  {
-    "product_name": "COFFRET LEGUMES EN BOIS",
-    "product_gtin": "3393143404970",
+    "product_name": "BABY CORALIE - GRANDE BAIGNOIRE AVEC ACCESSOIRES",
+    "product_gtin": "4009847016751",
     "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/coffret-legumes-en-bois-3393143404970.html"
+    "product_link": "https://www.joueclub.fr/poupees/baby-coralie-grande-baignoire-avec-accessoires-4009847016751.html"
   },
   {
-    "product_name": "COFFRET VETERINAIRE",
-    "product_gtin": "3393143404956",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/coffret-veterinaire-3393143404956.html"
-  },
-  {
-    "product_name": "CROQUET JUNIOR EN BOIS",
-    "product_gtin": "3048700408419",
-    "supplier_price": 37.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/croquet-junior-en-bois-3048700408419.html"
-  },
-  {
-    "product_name": "CROQUET SENIOR EN BOIS",
-    "product_gtin": "3048700409317",
-    "supplier_price": 89.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/croquet-senior-en-bois-3048700409317.html"
-  },
-  {
-    "product_name": "CROSS ROADS - CUBES CAMPAGNE",
-    "product_gtin": "3700217359379",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/cross-roads-cubes-campagne-3700217359379.html"
-  },
-  {
-    "product_name": "CROSS ROADS - CUBES VILLE",
-    "product_gtin": "3700217359171",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/cross-roads-cubes-ville-3700217359171.html"
-  },
-  {
-    "product_name": "CUBE D'ACTIVITES DE LA MONTAGNE MAGIQUE",
-    "product_gtin": "3393143404406",
-    "supplier_price": 49.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/cube-d-activites-de-la-montagne-magique-3393143404406.html"
-  },
-  {
-    "product_name": "CUBES EMPILABLES FORET",
-    "product_gtin": "8410446552193",
-    "supplier_price": 20.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/cubes-empilables-foret-8410446552193.html"
-  },
-  {
-    "product_name": "CUBES SONORES DE LA SAVANE EN BOIS",
-    "product_gtin": "3048700021014",
+    "product_name": "BABY NURSE  POUPON 32 CM",
+    "product_gtin": "3032162201039",
     "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/cubes-sonores-de-la-savane-en-bois-3048700021014.html"
+    "product_link": "https://www.joueclub.fr/poupees/baby-nurse-poupon-32-cm-3032162201039.html"
   },
   {
-    "product_name": "CUISINE D'EVEIL MULTI-ACTIVITES EN BOIS",
-    "product_gtin": "3048700081223",
-    "supplier_price": 32.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/cuisine-d-eveil-multi-activites-en-bois-3048700081223.html"
+    "product_name": "BABY NURSE GRANDE MAISON DES BEBES",
+    "product_gtin": "3032162203941",
+    "supplier_price": 119.99,
+    "product_link": "https://www.joueclub.fr/poupees/baby-nurse-grande-maison-des-bebes-3032162203941.html"
   },
   {
-    "product_name": "CUISINE MYRTILLE",
-    "product_gtin": "3393143401641",
-    "supplier_price": 69.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/cuisine-myrtille-3393143401641.html"
+    "product_name": "BABY NURSE NURSERIE COCOON",
+    "product_gtin": "3032162203934",
+    "supplier_price": 48.99,
+    "product_link": "https://www.joueclub.fr/poupees/baby-nurse-nurserie-cocoon-3032162203934.html"
   },
   {
-    "product_name": "DINO - TABLE D'ACTIVITES DINO EN BOIS",
-    "product_gtin": "3700217358259",
-    "supplier_price": 64.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/dino-table-d-activites-dino-en-bois-3700217358259.html"
+    "product_name": "BABY NURSE- BAIGNOIRE BALNEO",
+    "product_gtin": "3032162203866",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/baby-nurse-baignoire-balneo-3032162203866.html"
   },
   {
-    "product_name": "DINO - VOLCAN MULTI-ACTIVITES",
-    "product_gtin": "3700217358273",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/dino-volcan-multi-activites-3700217358273.html"
-  },
-  {
-    "product_name": "DOMINOS REVERSIBLES LES ANIMAUX",
-    "product_gtin": "3393143018061",
-    "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/dominos-reversibles-les-animaux-3393143018061.html"
-  },
-  {
-    "product_name": "DUCK FAMILY A PROMENER - EN BOIS",
-    "product_gtin": "3700217382117",
-    "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/duck-family-a-promener-en-bois-3700217382117.html"
-  },
-  {
-    "product_name": "ELEMENTS BOIS A ENFILER FEERIE EN BOIS",
-    "product_gtin": "3393143249762",
+    "product_name": "BAIGNOIRE ET ACCESSOIRES",
+    "product_gtin": "3393143400927",
     "supplier_price": 12.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/elements-bois-a-enfiler-feerie-en-bois-3393143249762.html"
+    "product_link": "https://www.joueclub.fr/poupees/baignoire-et-accessoires-3393143400927.html"
   },
   {
-    "product_name": "FERME - TRAIN FERME",
-    "product_gtin": "3700217333140",
-    "supplier_price": 34.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/ferme-train-ferme-3700217333140.html"
-  },
-  {
-    "product_name": "FLIPPER FETE FORAINE",
-    "product_gtin": "3700217333683",
-    "supplier_price": 39.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/flipper-fete-foraine-3700217333683.html"
-  },
-  {
-    "product_name": "GIOIA - ACCORDEON",
-    "product_gtin": "3700217376543",
-    "supplier_price": 42.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/gioia-accordeon-3700217376543.html"
-  },
-  {
-    "product_name": "GIOIA - SET 4 INSTRUMENTS",
-    "product_gtin": "3700217376567",
-    "supplier_price": 34.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/gioia-set-4-instruments-3700217376567.html"
-  },
-  {
-    "product_name": "GIOIA - YOUKOULELE",
-    "product_gtin": "3700217376529",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/gioia-youkoulele-3700217376529.html"
-  },
-  {
-    "product_name": "GRAND PARKING",
-    "product_gtin": "3393142871735",
-    "supplier_price": 56.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/grand-parking-3393142871735.html"
-  },
-  {
-    "product_name": "GRANDE CUISINE MOZAIC -EN BOIS",
-    "product_gtin": "3700217366094",
-    "supplier_price": 129.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/grande-cuisine-mozaic-en-bois-3700217366094.html"
-  },
-  {
-    "product_name": "GUITARE BOIS I GIRL AVEC BANDOULIERE",
-    "product_gtin": "0047663114842",
-    "supplier_price": 44.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/guitare-bois-i-girl-avec-bandouliere-0047663114842.html"
-  },
-  {
-    "product_name": "HABILLE LA FAMILLE OKOIA",
-    "product_gtin": "5404031204522",
-    "supplier_price": 15.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/habille-la-famille-okoia-5404031204522.html"
-  },
-  {
-    "product_name": "IMAGIER BOULIER ALPHABET EN BOIS",
-    "product_gtin": "3393143398590",
-    "supplier_price": 26.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/imagier-boulier-alphabet-en-bois-3393143398590.html"
-  },
-  {
-    "product_name": "JANOD - APPAREIL PHOTO",
-    "product_gtin": "3700217353810",
-    "supplier_price": 15.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/janod-appareil-photo-3700217353810.html"
-  },
-  {
-    "product_name": "JANOD - CUISINE TRIO",
-    "product_gtin": "3700217365462",
-    "supplier_price": 69.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/janod-cuisine-trio-3700217365462.html"
-  },
-  {
-    "product_name": "JEU D'EMPILAGE DE LA MONTAGNE MAGIQUE",
-    "product_gtin": "3393143404420",
-    "supplier_price": 15.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/jeu-d-empilage-de-la-montagne-magique-3393143404420.html"
-  },
-  {
-    "product_name": "JEU D'EQUILIBRE EN BOIS 21 PIECES",
-    "product_gtin": "3393143400187",
-    "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/jeu-d-equilibre-en-bois-21-pieces-3393143400187.html"
-  },
-  {
-    "product_name": "JEU DE DAMES CHINOISES",
-    "product_gtin": "3393143133252",
-    "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jeux-de-societes/jeu-de-dames-chinoises-3393143133252.html"
-  },
-  {
-    "product_name": "JEU DE PECHE MAGNETIQUE MICHELLE CARLSLUND",
-    "product_gtin": "3048700085061",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/jeu-de-peche-magnetique-michelle-carlslund-3048700085061.html"
-  },
-  {
-    "product_name": "JOUET A TIRER - ADRIEN LE CHIEN",
-    "product_gtin": "3700552303563",
-    "supplier_price": 25.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/jouet-a-tirer-adrien-le-chien-3700552303563.html"
-  },
-  {
-    "product_name": "KESKIPOUSS - JOUR DE RECOLTE",
-    "product_gtin": "3048700021595",
-    "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/keskipouss-jour-de-recolte-3048700021595.html"
-  },
-  {
-    "product_name": "LABYRINTHE MAGNETIQUE - FORET EN BOIS",
-    "product_gtin": "3393143395971",
-    "supplier_price": 16.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/labyrinthe-magnetique-foret-en-bois-3393143395971.html"
-  },
-  {
-    "product_name": "LABYRINTHE MAGNETIQUE MA PETITE VILLE - INGELA P.ARRHENIUS",
-    "product_gtin": "3048700076281",
-    "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/labyrinthe-magnetique-ma-petite-ville-ingela-p-arrhenius-3048700076281.html"
-  },
-  {
-    "product_name": "LAPINS A PROMENER ZIGOLOS - EN BOIS",
-    "product_gtin": "3700217382070",
-    "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/lapins-a-promener-zigolos-en-bois-3700217382070.html"
-  },
-  {
-    "product_name": "LE PETIT PILOTE",
-    "product_gtin": "3393143404529",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/le-petit-pilote-3393143404529.html"
-  },
-  {
-    "product_name": "LE REFUGE DE LA MARMOTTE EN BOIS - 150 PIECES",
-    "product_gtin": "3225280809007",
-    "supplier_price": 49.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/le-refuge-de-la-marmotte-en-bois-150-pieces-3225280809007.html"
-  },
-  {
-    "product_name": "MA CAFETIERE A EXPRESSO EN BOIS",
-    "product_gtin": "3393143398330",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/ma-cafetiere-a-expresso-en-bois-3393143398330.html"
-  },
-  {
-    "product_name": "MA COIFFEUSE ET SES ACCESSOIRES",
-    "product_gtin": "3393143248512",
-    "supplier_price": 89.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/ma-coiffeuse-et-ses-accessoires-3393143248512.html"
-  },
-  {
-    "product_name": "MA CUISINE MULTI-FONCTIONS",
-    "product_gtin": "3393142975549",
-    "supplier_price": 59.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/ma-cuisine-multi-fonctions-3393142975549.html"
-  },
-  {
-    "product_name": "MA FAMILLE - POUPEES - EN BOIS",
-    "product_gtin": "3393143341794",
-    "supplier_price": 21.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/ma-famille-poupees-en-bois-3393143341794.html"
-  },
-  {
-    "product_name": "MA PREMIERE CUISINE EN BOIS",
-    "product_gtin": "3393143397647",
-    "supplier_price": 39.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/ma-premiere-cuisine-en-bois-3393143397647.html"
-  },
-  {
-    "product_name": "MA RAMPE DE VOITURES",
-    "product_gtin": "3393143395766",
-    "supplier_price": 22.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/ma-rampe-de-voitures-3393143395766.html"
-  },
-  {
-    "product_name": "MAISON DES FORMES OISEAU",
-    "product_gtin": "3700217340629",
-    "supplier_price": 27.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/maison-des-formes-oiseau-3700217340629.html"
-  },
-  {
-    "product_name": "MAISON ET JARDIN - 135 PIECES",
-    "product_gtin": "3225280809809",
-    "supplier_price": 39.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/maison-et-jardin-135-pieces-3225280809809.html"
-  },
-  {
-    "product_name": "MAISON SONORE A FORMES",
-    "product_gtin": "5414834834451",
-    "supplier_price": 44.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/maison-sonore-a-formes-5414834834451.html"
-  },
-  {
-    "product_name": "MALLETTE DE 52 LETTRES SPLASH - EN BOIS",
-    "product_gtin": "3700217396121",
-    "supplier_price": 16.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mallette-de-52-lettres-splash-en-bois-3700217396121.html"
-  },
-  {
-    "product_name": "MIELE - CUISINE FAMILY SUPER-MODELE EN BOIS",
-    "product_gtin": "4009847071941",
-    "supplier_price": 189.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/miele-cuisine-family-super-modele-en-bois-4009847071941.html"
-  },
-  {
-    "product_name": "MOLKKY VERSION LUXE",
-    "product_gtin": "6416296525013",
-    "supplier_price": 49.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/molkky-version-luxe-6416296525013.html"
-  },
-  {
-    "product_name": "MON 1ER PIANO CONFETTI ELECTRONIQUE- EN BOIS",
-    "product_gtin": "3700217376185",
-    "supplier_price": 79.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-1er-piano-confetti-electronique-en-bois-3700217376185.html"
-  },
-  {
-    "product_name": "MON ANIMAL A POUSSER",
-    "product_gtin": "3393143395704",
-    "supplier_price": 15.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-animal-a-pousser-3393143395704.html"
-  },
-  {
-    "product_name": "MON ARBRE A BALLES EN BOIS",
-    "product_gtin": "3393143395520",
-    "supplier_price": 32.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-arbre-a-balles-en-bois-3393143395520.html"
-  },
-  {
-    "product_name": "MON CHALET EN BOIS 135 PIECES",
-    "product_gtin": "3225280800905",
-    "supplier_price": 34.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-chalet-en-bois-135-pieces-3225280800905.html"
-  },
-  {
-    "product_name": "MON CHALET EN BOIS 240 PIECES",
-    "product_gtin": "3225280800509",
-    "supplier_price": 59.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-chalet-en-bois-240-pieces-3225280800509.html"
-  },
-  {
-    "product_name": "MON CUBE D'ACTIVITES EN BOIS",
-    "product_gtin": "3393143395933",
-    "supplier_price": 39.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-cube-d-activites-en-bois-3393143395933.html"
-  },
-  {
-    "product_name": "MON ETABLI EN BOIS",
-    "product_gtin": "3393143248406",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-etabli-en-bois-3393143248406.html"
-  },
-  {
-    "product_name": "MON FOUR A PIZZA EN BOIS",
-    "product_gtin": "3393143395223",
-    "supplier_price": 26.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-four-a-pizza-en-bois-3393143395223.html"
-  },
-  {
-    "product_name": "MON GATEAU D'ANNIVERSAIRE EN BOIS",
-    "product_gtin": "3393143398323",
-    "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-gateau-d-anniversaire-en-bois-3393143398323.html"
-  },
-  {
-    "product_name": "MON GRAND ETABLI EN BOIS",
-    "product_gtin": "3393143132996",
-    "supplier_price": 65.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-grand-etabli-en-bois-3393143132996.html"
-  },
-  {
-    "product_name": "MON GRAND XYLOPHONE",
-    "product_gtin": "3393142872596",
-    "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-grand-xylophone-3393142872596.html"
-  },
-  {
-    "product_name": "MON JOUET ANIME A POUSSER",
-    "product_gtin": "3393143132644",
-    "supplier_price": 14.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-jouet-anime-a-pousser-3393143132644.html"
-  },
-  {
-    "product_name": "MON MENU ENFANT",
-    "product_gtin": "3393143395940",
-    "supplier_price": 21.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-menu-enfant-3393143395940.html"
-  },
-  {
-    "product_name": "MON PREMIER COFFRET DE JEUX",
-    "product_gtin": "3225280811000",
-    "supplier_price": 37.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-premier-coffret-de-jeux-3225280811000.html"
-  },
-  {
-    "product_name": "MON PREMIER PUZZLE EN BOIS 30 PIECES",
-    "product_gtin": "3393143015213",
-    "supplier_price": 16.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-premier-puzzle-en-bois-30-pieces-3393143015213.html"
-  },
-  {
-    "product_name": "MON SET MUSICAL EN BOIS",
-    "product_gtin": "3393143395919",
-    "supplier_price": 39.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-set-musical-en-bois-3393143395919.html"
-  },
-  {
-    "product_name": "MON TAMBOURIN",
-    "product_gtin": "3393143396008",
-    "supplier_price": 11.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-tambourin-3393143396008.html"
-  },
-  {
-    "product_name": "MON TRIANGLE D'ACTIVITES",
-    "product_gtin": "3393143395513",
-    "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/mon-triangle-d-activites-3393143395513.html"
-  },
-  {
-    "product_name": "MONTESSORI - LE PETIT DEJEUNER DU TOUCAN",
-    "product_gtin": "8008324098378",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/montessori-le-petit-dejeuner-du-toucan-8008324098378.html"
-  },
-  {
-    "product_name": "PELUCHE TETE DE LICORNE",
-    "product_gtin": "3393143017262",
-    "supplier_price": 17.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/peluche-tete-de-licorne-3393143017262.html"
-  },
-  {
-    "product_name": "PEPPA PIG - WHIZZ CLICKETY CLACK TRAIN SET",
-    "product_gtin": "3701405830465",
-    "supplier_price": 39.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/peppa-pig-whizz-clickety-clack-train-set-3701405830465.html"
-  },
-  {
-    "product_name": "PERLES GEANTES EN BOIS",
-    "product_gtin": "3393142296309",
-    "supplier_price": 25.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/perles-geantes-en-bois-3393142296309.html"
-  },
-  {
-    "product_name": "PISTE DE DES",
-    "product_gtin": "3393143136031",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jeux-de-societes/piste-de-des-3393143136031.html"
-  },
-  {
-    "product_name": "PLATEAU SENSORIEL DE LA MONTAGNE MAGIQUE",
-    "product_gtin": "3393143404437",
-    "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/plateau-sensoriel-de-la-montagne-magique-3393143404437.html"
-  },
-  {
-    "product_name": "POPOTTE MINUS - EN BOIS",
-    "product_gtin": "3048700081254",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/popotte-minus-en-bois-3048700081254.html"
-  },
-  {
-    "product_name": "PUPPY CHIEN A TIRER",
-    "product_gtin": "6943478006348",
-    "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/puppy-chien-a-tirer-6943478006348.html"
-  },
-  {
-    "product_name": "PUZZLE A FORMES ET A PICOTS",
-    "product_gtin": "3393143136642",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/puzzle-a-formes-et-a-picots-3393143136642.html"
-  },
-  {
-    "product_name": "PUZZLE EN BOIS - CHAT ET LION",
-    "product_gtin": "3393143395230",
-    "supplier_price": 14.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/puzzle-en-bois-chat-et-lion-3393143395230.html"
-  },
-  {
-    "product_name": "PUZZLE EN BOIS - LES ANIMAUX DE LA FERME",
-    "product_gtin": "3393143395216",
-    "supplier_price": 12.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/puzzle-en-bois-les-animaux-de-la-ferme-3393143395216.html"
-  },
-  {
-    "product_name": "ROBOT DE CUISINE EN BOIS",
-    "product_gtin": "3393143248482",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/robot-de-cuisine-en-bois-3393143248482.html"
-  },
-  {
-    "product_name": "ROUE DU TEMPS",
-    "product_gtin": "3700217396237",
-    "supplier_price": 34.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/roue-du-temps-3700217396237.html"
-  },
-  {
-    "product_name": "SET DE 4 CASSE-TETES BOIS EXPERT",
-    "product_gtin": "5425004733672",
-    "supplier_price": 14.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/set-de-4-casse-tetes-bois-expert-5425004733672.html"
-  },
-  {
-    "product_name": "SET DE TRAIN 70 PIECES EN BOIS",
-    "product_gtin": "3393142371983",
-    "supplier_price": 44.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/set-de-train-70-pieces-en-bois-3393142371983.html"
-  },
-  {
-    "product_name": "SET DE TRAINS 30 PIECES",
-    "product_gtin": "3393143400606",
-    "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/set-de-trains-30-pieces-3393143400606.html"
-  },
-  {
-    "product_name": "SET DE VAISSELLE EN BOIS",
-    "product_gtin": "3393143404574",
-    "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/set-de-vaisselle-en-bois-3393143404574.html"
-  },
-  {
-    "product_name": "SET DE VEHICULES",
-    "product_gtin": "3393143136987",
-    "supplier_price": 16.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/set-de-vehicules-3393143136987.html"
-  },
-  {
-    "product_name": "SET MUSICAL",
-    "product_gtin": "3393143404994",
-    "supplier_price": 39.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/set-musical-3393143404994.html"
-  },
-  {
-    "product_name": "SET PETIT DEJEUNER EN BOIS",
-    "product_gtin": "3393143248895",
-    "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/set-petit-dejeuner-en-bois-3393143248895.html"
-  },
-  {
-    "product_name": "SOLITAIRE",
-    "product_gtin": "3393143133269",
-    "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jeux-de-societes/solitaire-3393143133269.html"
-  },
-  {
-    "product_name": "SUDOKU DES LEGUMES - JOUR DE RECOLTE",
-    "product_gtin": "3048700021571",
-    "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/sudoku-des-legumes-jour-de-recolte-3048700021571.html"
-  },
-  {
-    "product_name": "SWEET COCOON - EMPILABLE CANARDS EN BOIS",
-    "product_gtin": "3700217340599",
-    "supplier_price": 15.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/sweet-cocoon-empilable-canards-en-bois-3700217340599.html"
-  },
-  {
-    "product_name": "SWEET COCOON - TRAIN ESCARGOT",
-    "product_gtin": "3700217340100",
-    "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/sweet-cocoon-train-escargot-3700217340100.html"
-  },
-  {
-    "product_name": "TABLE D'ACTIVITES DE LA MONTAGNE MAGIQUE",
-    "product_gtin": "3393143404413",
-    "supplier_price": 79.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/table-d-activites-de-la-montagne-magique-3393143404413.html"
-  },
-  {
-    "product_name": "TABLEAU A SERRURES EN BOIS",
-    "product_gtin": "3393143395247",
-    "supplier_price": 16.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/tableau-a-serrures-en-bois-3393143395247.html"
-  },
-  {
-    "product_name": "TAP TAP XYLO PURE - EN BOIS",
-    "product_gtin": "3700217351557",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/tap-tap-xylo-pure-en-bois-3700217351557.html"
-  },
-  {
-    "product_name": "TAP' BALLES MUSICAL EN BOIS",
-    "product_gtin": "3393143394691",
-    "supplier_price": 24.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/tap-balles-musical-en-bois-3393143394691.html"
-  },
-  {
-    "product_name": "TAPE BALLES DE LA MONTAGNE MAGIQUE",
-    "product_gtin": "3393143404390",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/tape-balles-de-la-montagne-magique-3393143404390.html"
-  },
-  {
-    "product_name": "TETE DE CHEVAL",
-    "product_gtin": "3393142371389",
-    "supplier_price": 19.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/tete-de-cheval-3393142371389.html"
-  },
-  {
-    "product_name": "TOUCHE ET TROUVE",
-    "product_gtin": "3048700024138",
-    "supplier_price": 26.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/touche-et-trouve-3048700024138.html"
-  },
-  {
-    "product_name": "TUT TUT BOLIDES - SUPER CIRCUIT TRAIN EDUCATIF (ADAM, TRAIN MARCHAND)",
-    "product_gtin": "3417765835056",
-    "supplier_price": 49.99,
-    "product_link": "https://www.joueclub.fr/jouets-en-bois/tut-tut-bolides-super-circuit-train-educatif-adam-train-marchand-3417765835056.html"
-  },
-  {
-    "product_name": "VEHICULES TAP TAP",
-    "product_gtin": "3070900066410",
-    "supplier_price": 29.99,
-    "product_link": "https://www.joueclub.fr/jeux-de-constructions-maquettes/vehicules-tap-tap-3070900066410.html"
-  },
-  {
-    "product_name": "VIS ANIMO",
-    "product_gtin": "3070900063044",
+    "product_name": "BARBIE  - POUPEE BARBIE PLAGE",
+    "product_gtin": "0194735162420",
     "supplier_price": 18.99,
-    "product_link": "https://www.joueclub.fr/jouets-1er-age/vis-animo-3070900063044.html"
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-barbie-plage-0194735162420.html"
+  },
+  {
+    "product_name": "BARBIE  - POUPEE KEN TENUE EN JEAN - LE FILM",
+    "product_gtin": "0194735174539",
+    "supplier_price": 69.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-ken-tenue-en-jean-le-film-0194735174539.html"
+  },
+  {
+    "product_name": "BARBIE -  POUPEE DELUXE STYLE METALI-ROSE",
+    "product_gtin": "0194735303083",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-deluxe-style-metali-rose-0194735303083.html"
+  },
+  {
+    "product_name": "BARBIE - COFFRET BARBIE ET KEN ROLLER",
+    "product_gtin": "0194735232437",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-barbie-et-ken-roller-0194735232437.html"
+  },
+  {
+    "product_name": "BARBIE - COFFRET POUPEE BLONDE AVEC PISCINE",
+    "product_gtin": "0194735178285",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-poupee-blonde-avec-piscine-0194735178285.html"
+  },
+  {
+    "product_name": "BARBIE - COFFRET POUPEE MAITRESSE D ECOLE",
+    "product_gtin": "0194735275298",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-poupee-maitresse-d-ecole-0194735275298.html"
+  },
+  {
+    "product_name": "BARBIE - COFFRET POUPEE SKIPPER GARDERIE",
+    "product_gtin": "0194735234639",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-poupee-skipper-garderie-0194735234639.html"
+  },
+  {
+    "product_name": "BARBIE - COFFRET POUPEES 2 AMIES SIRENE",
+    "product_gtin": "0194735176267",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-poupees-2-amies-sirene-0194735176267.html"
+  },
+  {
+    "product_name": "BARBIE - COFFRET POUPEES BARBIE ET CHELSEA",
+    "product_gtin": "0194735258642",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-poupees-barbie-et-chelsea-0194735258642.html"
+  },
+  {
+    "product_name": "BARBIE - COFFRET SKIPPER  POUSSETTE",
+    "product_gtin": "0194735338856",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-skipper-poussette-0194735338856.html"
+  },
+  {
+    "product_name": "BARBIE - GRANDE PISCINE DE REVE",
+    "product_gtin": "0194735302673",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-grande-piscine-de-reve-0194735302673.html"
+  },
+  {
+    "product_name": "BARBIE - JOYEUX NOEL BRUNE",
+    "product_gtin": "0194735260836",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-joyeux-noel-brune-0194735260836.html"
+  },
+  {
+    "product_name": "BARBIE - KIT ROUGE A LEVRES",
+    "product_gtin": "8008324088638",
+    "supplier_price": 20.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-kit-rouge-a-levres-8008324088638.html"
+  },
+  {
+    "product_name": "BARBIE - L'AVION DE REVE",
+    "product_gtin": "0887961742879",
+    "supplier_price": 89.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-l-avion-de-reve-0887961742879.html"
+  },
+  {
+    "product_name": "BARBIE - LA MAISON DE REVE DE BARBIE -",
+    "product_gtin": "0194735134267",
+    "supplier_price": 249.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-la-maison-de-reve-de-barbie-0194735134267.html"
+  },
+  {
+    "product_name": "BARBIE - LE BATEAU DE REVE",
+    "product_gtin": "0194735095100",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-le-bateau-de-reve-0194735095100.html"
+  },
+  {
+    "product_name": "BARBIE - LE CABRIOLET",
+    "product_gtin": "0194735001750",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-le-cabriolet-0194735001750.html"
+  },
+  {
+    "product_name": "BARBIE - MEGA CAMPING-CAR",
+    "product_gtin": "0194735007646",
+    "supplier_price": 69.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-mega-camping-car-0194735007646.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE  BLONDE ET FAUTEUIL ROULANT",
+    "product_gtin": "0194735094127",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-blonde-et-fauteuil-roulant-0194735094127.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE BALADE DU CHIEN",
+    "product_gtin": "0887961382884",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-balade-du-chien-0887961382884.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE BARBIE LICORNE",
+    "product_gtin": "0194735183623",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-barbie-licorne-0194735183623.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE BARBIE PRINCESSE",
+    "product_gtin": "0194735183609",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-barbie-princesse-0194735183609.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE BARBIE SIRENE BLEU",
+    "product_gtin": "0194735183647",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-barbie-sirene-bleu-0194735183647.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE BARBIE SIRENE ROSE",
+    "product_gtin": "0194735183661",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-barbie-sirene-rose-0194735183661.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE BROOKLYN DREAM BESTIES",
+    "product_gtin": "0194735243297",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-brooklyn-dream-besties-0194735243297.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE COFFRET MALIBU EN VOYAGE",
+    "product_gtin": "0194735098125",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-coffret-malibu-en-voyage-0194735098125.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE DANSEUSE PAPILLON",
+    "product_gtin": "0194735230709",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-danseuse-papillon-0194735230709.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE DELUXE STYLE ROBE ROSE BONBON",
+    "product_gtin": "0194735255955",
+    "supplier_price": 22.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-deluxe-style-robe-rose-bonbon-0194735255955.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE DREAM BESTIES MALIBU",
+    "product_gtin": "0194735313280",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-dream-besties-malibu-0194735313280.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE DRESSING DE REVE",
+    "product_gtin": "0194735227396",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-dressing-de-reve-0194735227396.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE ET SON ANIMALERIE",
+    "product_gtin": "0887961904093",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-et-son-animalerie-0887961904093.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE ET SON MEGA DRESSING",
+    "product_gtin": "0194735060238",
+    "supplier_price": 69.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-et-son-mega-dressing-0194735060238.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE FANTAISIE 3 EN 1",
+    "product_gtin": "0194735274734",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-fantaisie-3-en-1-0194735274734.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE FEE COULEURS MAGIQUES",
+    "product_gtin": "0194735274710",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-fee-couleurs-magiques-0194735274710.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE INFIRMIERE",
+    "product_gtin": "0887961921427",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-infirmiere-0887961921427.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE JOYEUX NOEL CHATAIN",
+    "product_gtin": "0194735261086",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-joyeux-noel-chatain-0194735261086.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE KEN DREAM BESTIES",
+    "product_gtin": "0194735281916",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-ken-dream-besties-0194735281916.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE KEN PLAGE",
+    "product_gtin": "0194735162437",
+    "supplier_price": 18.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-ken-plage-0194735162437.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE MALIBU DREAM BESTIES",
+    "product_gtin": "0194735243266",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-malibu-dream-besties-0194735243266.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE NAISSANCE DES CHIOTS",
+    "product_gtin": "0194735012442",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-naissance-des-chiots-0194735012442.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE RENEE DREAM BESTIES",
+    "product_gtin": "0194735243303",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-renee-dream-besties-0194735243303.html"
+  },
+  {
+    "product_name": "BARBIE - POUPEE TERESA DREAM BESTIES",
+    "product_gtin": "0194735243273",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-teresa-dream-besties-0194735243273.html"
+  },
+  {
+    "product_name": "BARBIE - TETE A COIFFER BLONDE",
+    "product_gtin": "0194735125227",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-tete-a-coiffer-blonde-0194735125227.html"
+  },
+  {
+    "product_name": "BARBIE -MALLETTE ARMOIRE",
+    "product_gtin": "4009847058010",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-mallette-armoire-4009847058010.html"
+  },
+  {
+    "product_name": "BARBIE CUTIE REVEAL - POUPEE DALMATIEN",
+    "product_gtin": "0194735178636",
+    "supplier_price": 15.0,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-cutie-reveal-poupee-dalmatien-0194735178636.html"
+  },
+  {
+    "product_name": "BARBIE CUTIE REVEAL - POUPEE PINGOUIN",
+    "product_gtin": "0194735178698",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-cutie-reveal-poupee-pingouin-0194735178698.html"
+  },
+  {
+    "product_name": "BARBIE CUTIE REVEAL - POUPEE TOUJOYEUX",
+    "product_gtin": "0194735306282",
+    "supplier_price": 15.0,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-cutie-reveal-poupee-toujoyeux-0194735306282.html"
+  },
+  {
+    "product_name": "BARBIE CUTIE REVEAL - POUPEE TOUMERVEILLEUX",
+    "product_gtin": "0194735306275",
+    "supplier_price": 15.0,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-cutie-reveal-poupee-toumerveilleux-0194735306275.html"
+  },
+  {
+    "product_name": "BARBIE CUTIE REVEAL - POUPEE TOUTENSEMBLE",
+    "product_gtin": "0194735306268",
+    "supplier_price": 15.0,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-cutie-reveal-poupee-toutensemble-0194735306268.html"
+  },
+  {
+    "product_name": "BARBIE CUTIE REVEAL - POUPEE ZEBRE",
+    "product_gtin": "0194735178681",
+    "supplier_price": 15.0,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-cutie-reveal-poupee-zebre-0194735178681.html"
+  },
+  {
+    "product_name": "BARBIE DELUXE  POUPEE STYLE TENUE ROSE ETOILE",
+    "product_gtin": "0194735340071",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-deluxe-poupee-style-tenue-rose-etoile-0194735340071.html"
+  },
+  {
+    "product_name": "BARBIE DELUXE POUPEE STYLE TENUE ROSE COEUR",
+    "product_gtin": "0194735340217",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-deluxe-poupee-style-tenue-rose-coeur-0194735340217.html"
+  },
+  {
+    "product_name": "BARBIE DELUXE STYLE TENUE  ROSE ZEBRE",
+    "product_gtin": "0194735339938",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-deluxe-style-tenue-rose-zebre-0194735339938.html"
+  },
+  {
+    "product_name": "BARBIE DREAM BESTIES - POUPEE DAISY",
+    "product_gtin": "0194735281923",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-dream-besties-poupee-daisy-0194735281923.html"
+  },
+  {
+    "product_name": "BARBIE DREAM BESTIES SKATE PARTY - POUPEE BARBIE MALIBU ROLLER",
+    "product_gtin": "0194735308323",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-dream-besties-skate-party-poupee-barbie-malibu-roller-0194735308323.html"
+  },
+  {
+    "product_name": "BARBIE DREAMBESTIES SKATE PARTY - POUPEE BROOKLYN ROLLER",
+    "product_gtin": "0194735308354",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-dreambesties-skate-party-poupee-brooklyn-roller-0194735308354.html"
+  },
+  {
+    "product_name": "BARBIE DREAMTOPIA - POUPEE SIRENE MAGIQUE ARC-EN-CIEL",
+    "product_gtin": "0887961913941",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-dreamtopia-poupee-sirene-magique-arc-en-ciel-0887961913941.html"
+  },
+  {
+    "product_name": "BARBIE FASHIONISTA - POUPEE KEN WESTERN",
+    "product_gtin": "0194735176861",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-fashionista-poupee-ken-western-0194735176861.html"
+  },
+  {
+    "product_name": "BARBIE FASHIONISTA POUPEE  VICHY ET PLATRE",
+    "product_gtin": "0194735339754",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-fashionista-poupee-vichy-et-platre-0194735339754.html"
+  },
+  {
+    "product_name": "BARBIE JOYEUX NOEL BLONDE",
+    "product_gtin": "0194735260966",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-joyeux-noel-blonde-0194735260966.html"
+  },
+  {
+    "product_name": "BARBIE LE FILM - POUPEE EN ROBE VICHY ROSE",
+    "product_gtin": "0194735160709",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-le-film-poupee-en-robe-vichy-rose-0194735160709.html"
+  },
+  {
+    "product_name": "BARBIE MALIBU  - POUPEE BARBIE CAVALIERE",
+    "product_gtin": "0194735230969",
+    "supplier_price": 17.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-malibu-poupee-barbie-cavaliere-0194735230969.html"
+  },
+  {
+    "product_name": "BARBIE MYSTERIES : THE GREAT HORSE CHASE - CHEVAL A FONCTIONS",
+    "product_gtin": "0194735231010",
+    "supplier_price": 25.0,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-mysteries-the-great-horse-chase-cheval-a-fonctions-0194735231010.html"
+  },
+  {
+    "product_name": "BARBIE MYSTERIES : THE GREAT HORSE CHASE - ECURIE DE REVE",
+    "product_gtin": "0194735230976",
+    "supplier_price": 74.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-mysteries-the-great-horse-chase-ecurie-de-reve-0194735230976.html"
+  },
+  {
+    "product_name": "BARBIE PETS - COFFRET JOURNEE SPA",
+    "product_gtin": "0886144611841",
+    "supplier_price": 17.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-pets-coffret-journee-spa-0886144611841.html"
+  },
+  {
+    "product_name": "BARBIE PETS - COFFRET MAISON DE REVE",
+    "product_gtin": "0886144632914",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-pets-coffret-maison-de-reve-0886144632914.html"
+  },
+  {
+    "product_name": "BARBIE POP REVEAL - POUPEE BUBBLE BAIE",
+    "product_gtin": "0194735191284",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-pop-reveal-poupee-bubble-baie-0194735191284.html"
+  },
+  {
+    "product_name": "BARBIE POP REVEAL BUBBLE LAIT",
+    "product_gtin": "0194735191253",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-pop-reveal-bubble-lait-0194735191253.html"
+  },
+  {
+    "product_name": "BARBIE POP REVEAL POUPEE CHATON ROSE",
+    "product_gtin": "0194735273997",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-pop-reveal-poupee-chaton-rose-0194735273997.html"
+  },
+  {
+    "product_name": "BARBIE POUPEE - DELUXE STYLE METALI-CORAIL",
+    "product_gtin": "0194735303076",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-deluxe-style-metali-corail-0194735303076.html"
+  },
+  {
+    "product_name": "BARBIE POUPEE BASICS YOU CREATE",
+    "product_gtin": "0194735344031",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-basics-you-create-0194735344031.html"
+  },
+  {
+    "product_name": "BARBIE POUPEE ET LICORNE",
+    "product_gtin": "0194735255368",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-et-licorne-0194735255368.html"
+  },
+  {
+    "product_name": "BARBIE POUPEE MEDECIN",
+    "product_gtin": "0194735348633",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-medecin-0194735348633.html"
+  },
+  {
+    "product_name": "BARBIE POUPEE SIRENE BULLES MAGIQUES",
+    "product_gtin": "0194735370436",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-sirene-bulles-magiques-0194735370436.html"
+  },
+  {
+    "product_name": "BARBIE REVEAL  POUPEE - PETAL POP TULIPE ROSE",
+    "product_gtin": "0194735375707",
+    "supplier_price": 27.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-reveal-poupee-petal-pop-tulipe-rose-0194735375707.html"
+  },
+  {
+    "product_name": "BARBIE REVEAL - POUPEE - PETAL POP MARGUERITE MAUVE",
+    "product_gtin": "0194735375721",
+    "supplier_price": 27.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-reveal-poupee-petal-pop-marguerite-mauve-0194735375721.html"
+  },
+  {
+    "product_name": "BARBIE REVEAL - POUPEE -PETAL POP ROSE ROUGE",
+    "product_gtin": "0194735375691",
+    "supplier_price": 27.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-reveal-poupee-petal-pop-rose-rouge-0194735375691.html"
+  },
+  {
+    "product_name": "BARBIE SIGNATURE  - POUPEE BARBIE X MARIAH CAREY",
+    "product_gtin": "0194735097395",
+    "supplier_price": 99.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-signature-poupee-barbie-x-mariah-carey-0194735097395.html"
+  },
+  {
+    "product_name": "BARBIE SIGNATURE - LOOKS 24",
+    "product_gtin": "0194735180783",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-signature-looks-24-0194735180783.html"
+  },
+  {
+    "product_name": "BARBIE SIGNATURE - POUPEE BARBIE 65 ANS BLONDE",
+    "product_gtin": "0194735181032",
+    "supplier_price": 74.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-signature-poupee-barbie-65-ans-blonde-0194735181032.html"
+  },
+  {
+    "product_name": "BARBIE SIGNATURE - POUPEE JOYEUX NOEL BLONDE",
+    "product_gtin": "0194735181179",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-signature-poupee-joyeux-noel-blonde-0194735181179.html"
+  },
+  {
+    "product_name": "BARBIE SIGNATURE - POUPEE JOYEUX NOEL BRUNE",
+    "product_gtin": "0194735181070",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-signature-poupee-joyeux-noel-brune-0194735181070.html"
+  },
+  {
+    "product_name": "BARBIE SIRENE -POUPEE  FLEURS MAGIQUES BRUNE",
+    "product_gtin": "0194735287895",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-sirene-poupee-fleurs-magiques-brune-0194735287895.html"
+  },
+  {
+    "product_name": "BARBIE SIRENE POUPEE  FLEURS MAGIQUES BLONDE",
+    "product_gtin": "0194735287925",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-sirene-poupee-fleurs-magiques-blonde-0194735287925.html"
+  },
+  {
+    "product_name": "BARBIE® -  POUPEE - DELUXE STYLE METALI-BLEU",
+    "product_gtin": "0194735303090",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-deluxe-style-metali-bleu-0194735303090.html"
+  },
+  {
+    "product_name": "BARBIE® - COFFRET CADEAU SURPRISE GALA ENCHANTE GLAM ROSE",
+    "product_gtin": "0194735308637",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-cadeau-surprise-gala-enchante-glam-rose-0194735308637.html"
+  },
+  {
+    "product_name": "BARBIE® - COFFRET CADEAU SURPRISE GALA ENCHANTE GLAM ROUGE",
+    "product_gtin": "0194735308675",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-cadeau-surprise-gala-enchante-glam-rouge-0194735308675.html"
+  },
+  {
+    "product_name": "BARBIE® - COFFRET CADEAU SURPRISE GALA ENCHANTE GLAM VIOLET",
+    "product_gtin": "0194735308668",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-cadeau-surprise-gala-enchante-glam-violet-0194735308668.html"
+  },
+  {
+    "product_name": "BARBIE® - POUPEE - LE STAND DE BARBE A PAPA",
+    "product_gtin": "0194735306299",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-le-stand-de-barbe-a-papa-0194735306299.html"
+  },
+  {
+    "product_name": "BARBIE® BUGGY DETECTIVE A LA PLAGE",
+    "product_gtin": "0194735306305",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-buggy-detective-a-la-plage-0194735306305.html"
+  },
+  {
+    "product_name": "BARBIE® MALIBU  POUPEE DETECTIVE A LA PLAGE",
+    "product_gtin": "0194735306329",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-malibu-poupee-detective-a-la-plage-0194735306329.html"
+  },
+  {
+    "product_name": "BARBIE® POP REVEAL  POUPEE GOURMANDISE BLEUE",
+    "product_gtin": "0194735308620",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-pop-reveal-poupee-gourmandise-bleue-0194735308620.html"
+  },
+  {
+    "product_name": "BARBIE® POP REVEAL POUPEE GOURMANDISE MAUVE",
+    "product_gtin": "0194735308651",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-pop-reveal-poupee-gourmandise-mauve-0194735308651.html"
+  },
+  {
+    "product_name": "BARBIE® POP REVEAL POUPEE GOURMANDISE ROSE",
+    "product_gtin": "0194735308644",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-pop-reveal-poupee-gourmandise-rose-0194735308644.html"
+  },
+  {
+    "product_name": "BARBIE® – POUPEE ET ACCESSOIRES DREAM BESTIES ZIA®",
+    "product_gtin": "0194735313303",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-et-accessoires-dream-besties-zia-0194735313303.html"
+  },
+  {
+    "product_name": "BARBIE® - COFFRET MAISON DE VACANCES AVEC POUPEE",
+    "product_gtin": "0194735178308",
+    "supplier_price": 69.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-maison-de-vacances-avec-poupee-0194735178308.html"
+  },
+  {
+    "product_name": "BARBIE® - COFFRET POUPEE GYMNASTIQUE",
+    "product_gtin": "0194735175895",
+    "supplier_price": 36.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-poupee-gymnastique-0194735175895.html"
+  },
+  {
+    "product_name": "BARBIE® - COFFRET POUPEE SAUVETAGE D’ANIMAUX",
+    "product_gtin": "0194735175994",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-coffret-poupee-sauvetage-d-animaux-0194735175994.html"
+  },
+  {
+    "product_name": "BARBIE® - POUPEE ROBE T-SHIRT",
+    "product_gtin": "0194735176823",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/barbie-poupee-robe-t-shirt-0194735176823.html"
+  },
+  {
+    "product_name": "BB  BAIN CALYPSO - BALEINE - COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013100869",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb-bain-calypso-baleine-corolle-mon-premier-poupon-4062013100869.html"
+  },
+  {
+    "product_name": "BB 36/42 - BIBERON SONORE - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013141039",
+    "supplier_price": 9.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb-36/42-biberon-sonore-corolle-accessoires-4062013141039.html"
+  },
+  {
+    "product_name": "BB BAIN - OCEANE COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013100753",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb-bain-oceane-corolle-mon-premier-poupon-4062013100753.html"
+  },
+  {
+    "product_name": "BB BAIN ALYZEE - CANARD 30 CM - COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013100760",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb-bain-alyzee-canard-30-cm-corolle-mon-premier-poupon-4062013100760.html"
+  },
+  {
+    "product_name": "BB BAIN CORALIE - BLOOMER  - COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013100876",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb-bain-coralie-bloomer-corolle-mon-premier-poupon-4062013100876.html"
+  },
+  {
+    "product_name": "BB BAIN OCEANE - COQUILLAGES - COROLLE  MON PREMIER POUPON",
+    "product_gtin": "4062013100968",
+    "supplier_price": 42.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb-bain-oceane-coquillages-corolle-mon-premier-poupon-4062013100968.html"
+  },
+  {
+    "product_name": "BB CALIN CAROLINE 30 CM - COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013100821",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb-calin-caroline-30-cm-corolle-mon-premier-poupon-4062013100821.html"
+  },
+  {
+    "product_name": "BB CALIN MAEL - OURSON - COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013100937",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb-calin-mael-ourson-corolle-mon-premier-poupon-4062013100937.html"
+  },
+  {
+    "product_name": "BB CALIN MARIUS - OURSON 30 CM  COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013100838",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb-calin-marius-ourson-30-cm-corolle-mon-premier-poupon-4062013100838.html"
+  },
+  {
+    "product_name": "BB CALIN POUPON MARIA 30 CM - COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013100630",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb-calin-poupon-maria-30-cm-corolle-mon-premier-poupon-4062013100630.html"
+  },
+  {
+    "product_name": "BB MARIN - COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013100678",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb-marin-corolle-mon-premier-poupon-4062013100678.html"
+  },
+  {
+    "product_name": "BB30 - ENSEMBLE SPORT ET DANSE - COROLLE VETEMENTS",
+    "product_gtin": "4062013110721",
+    "supplier_price": 20.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-ensemble-sport-et-danse-corolle-vetements-4062013110721.html"
+  },
+  {
+    "product_name": "BB30 - GRAND COFFRET DOCTEUR - POUR POUPON 30 -36 ET 42CM - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013110936",
+    "supplier_price": 31.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-grand-coffret-docteur-pour-poupon-30-36-et-42cm-corolle-accessoires-4062013110936.html"
+  },
+  {
+    "product_name": "BB30 - POUSSETTE OURSONS - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013111001",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-poussette-oursons-corolle-accessoires-4062013111001.html"
+  },
+  {
+    "product_name": "BB30 - PYJAMA ROSE ET BONNET - COROLLE VETEMENTS",
+    "product_gtin": "4062013110622",
+    "supplier_price": 20.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-pyjama-rose-et-bonnet-corolle-vetements-4062013110622.html"
+  },
+  {
+    "product_name": "BB30 -36 POT ET LINGETTE - 2 ACCESSOIRES - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013110752",
+    "supplier_price": 10.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-36-pot-et-lingette-2-accessoires-corolle-accessoires-4062013110752.html"
+  },
+  {
+    "product_name": "BB30 CHAUSSONS BLEU MARINE -COROLLE VETEMENTS",
+    "product_gtin": "4062013111124",
+    "supplier_price": 11.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-chaussons-bleu-marine-corolle-vetements-4062013111124.html"
+  },
+  {
+    "product_name": "BB30 CHAUSSONS MOUMOUTE - COROLLE VETEMENTS",
+    "product_gtin": "4062013111360",
+    "supplier_price": 11.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-chaussons-moumoute-corolle-vetements-4062013111360.html"
+  },
+  {
+    "product_name": "BB30 CHEMISE A CARREAUX & PANTALON PETIT EXPLORATEUR - COROLLE VETEMENTS",
+    "product_gtin": "4062013111322",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-chemise-a-carreaux-pantalon-petit-explorateur-corolle-vetements-4062013111322.html"
+  },
+  {
+    "product_name": "BB30 CIRE REVERSIBLE PETIT EXPLORATEUR - COROLLE VETEMENTS",
+    "product_gtin": "4062013111254",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-cire-reversible-petit-explorateur-corolle-vetements-4062013111254.html"
+  },
+  {
+    "product_name": "BB30 COMBISHORT & T-SHIRT PETIT EXPLORATEUR - COROLLE VETEMENTS",
+    "product_gtin": "4062013111308",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-combishort-t-shirt-petit-explorateur-corolle-vetements-4062013111308.html"
+  },
+  {
+    "product_name": "BB30 COUFFIN FLORAL - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013111162",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-couffin-floral-corolle-accessoires-4062013111162.html"
+  },
+  {
+    "product_name": "BB30 ENSEMBLE HIVER PETIT EXPLORATEUR - COROLLE VETEMENTS",
+    "product_gtin": "4062013111315",
+    "supplier_price": 16.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-ensemble-hiver-petit-explorateur-corolle-vetements-4062013111315.html"
+  },
+  {
+    "product_name": "BB30 ENSEMBLE HIVER WEEK-END A PARIS -COROLLE VETEMENTS",
+    "product_gtin": "4062013111087",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-ensemble-hiver-week-end-a-paris-corolle-vetements-4062013111087.html"
+  },
+  {
+    "product_name": "BB30 JOGGING GRIS PETIT EXPLORATEUR - COROLLE VETEMENTS",
+    "product_gtin": "4062013111292",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-jogging-gris-petit-explorateur-corolle-vetements-4062013111292.html"
+  },
+  {
+    "product_name": "BB30 MA VALISE DOCTEUR ET ACCESSOIRES - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013111148",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-ma-valise-docteur-et-accessoires-corolle-accessoires-4062013111148.html"
+  },
+  {
+    "product_name": "BB30 MANTEAU COROLLE VETEMENTS",
+    "product_gtin": "4062013111117",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-manteau-corolle-vetements-4062013111117.html"
+  },
+  {
+    "product_name": "BB30 PETIT COFFRET REPAS ROSE  - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013111131",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-petit-coffret-repas-rose-corolle-accessoires-4062013111131.html"
+  },
+  {
+    "product_name": "BB30 PILOTE OURS BRUN - COROLLE VETEMENTS",
+    "product_gtin": "4062013111216",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-pilote-ours-brun-corolle-vetements-4062013111216.html"
+  },
+  {
+    "product_name": "BB30 PONCHO DE PLUIE PETIT EXPLORATEUR - COROLLE VETEMENTS",
+    "product_gtin": "4062013111247",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-poncho-de-pluie-petit-explorateur-corolle-vetements-4062013111247.html"
+  },
+  {
+    "product_name": "BB30 POUSSETTE FLORALE -COROLLE ACCESSOIRES",
+    "product_gtin": "4062013111186",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-poussette-florale-corolle-accessoires-4062013111186.html"
+  },
+  {
+    "product_name": "BB30 PYJAMA BRILLE DANS LA NUIT + BANDEAU - COROLLE VETEMENTS",
+    "product_gtin": "4062013111025",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-pyjama-brille-dans-la-nuit-bandeau-corolle-vetements-4062013111025.html"
+  },
+  {
+    "product_name": "BB30 ROBE EN JEAN ML + FOULARD PETIT EXPLORATEUR - COROLLE VETEMENTS",
+    "product_gtin": "4062013111223",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-robe-en-jean-ml-foulard-petit-explorateur-corolle-vetements-4062013111223.html"
+  },
+  {
+    "product_name": "BB30 ROBE WEEK-END A PARIS -  COROLLE VETEMENTS",
+    "product_gtin": "4062013111056",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-robe-week-end-a-paris-corolle-vetements-4062013111056.html"
+  },
+  {
+    "product_name": "BB30 SAC A DOS PORTE POUPON PELUCHE ROSE - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013111179",
+    "supplier_price": 31.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-sac-a-dos-porte-poupon-peluche-rose-corolle-accessoires-4062013111179.html"
+  },
+  {
+    "product_name": "BB30 T-SHIRT & JUPE  PETIT EXPLORATEUR - COROLLE VETEMENTS",
+    "product_gtin": "4062013111261",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-t-shirt-jupe-petit-explorateur-corolle-vetements-4062013111261.html"
+  },
+  {
+    "product_name": "BB30 T-SHIRT & SALOPETTE OURS PETIT EXPLORATEUR - COROLLE VETEMENTS",
+    "product_gtin": "4062013111285",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-t-shirt-salopette-ours-petit-explorateur-corolle-vetements-4062013111285.html"
+  },
+  {
+    "product_name": "BB30 T-SHIRT & SHORT  PETIT EXPLORATEUR - COROLLE VETEMENTS",
+    "product_gtin": "4062013111278",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-t-shirt-short-petit-explorateur-corolle-vetements-4062013111278.html"
+  },
+  {
+    "product_name": "BB30 VESTE VELOURS PETIT EXPLORATEUR - COROLLE VETEMENTS",
+    "product_gtin": "4062013111230",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30-veste-velours-petit-explorateur-corolle-vetements-4062013111230.html"
+  },
+  {
+    "product_name": "BB30/36 POT & LINGETTE ETOILES COROLLE ACCESSOIRES",
+    "product_gtin": "4062013111377",
+    "supplier_price": 11.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb30/36-pot-lingette-etoiles-corolle-accessoires-4062013111377.html"
+  },
+  {
+    "product_name": "BB36 - BOTTES DE PLUIE POUR POUPON 36 CM - COROLLE VETEMENTS",
+    "product_gtin": "4062013141107",
+    "supplier_price": 11.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-bottes-de-pluie-pour-poupon-36-cm-corolle-vetements-4062013141107.html"
+  },
+  {
+    "product_name": "BB36 - PILOTE OURSON - COROLLE VETEMENTS",
+    "product_gtin": "4062013141411",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-pilote-ourson-corolle-vetements-4062013141411.html"
+  },
+  {
+    "product_name": "BB36 - TROUSSE DE TOILETTE - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013141312",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-trousse-de-toilette-corolle-accessoires-4062013141312.html"
+  },
+  {
+    "product_name": "BB36 -42 GRAND COFFRET REPAS - POUR POUPON 36 ET 42CM - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013141527",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-42-grand-coffret-repas-pour-poupon-36-et-42cm-corolle-accessoires-4062013141527.html"
+  },
+  {
+    "product_name": "BB36 BALLERINES DOREES - COROLLE VETEMENTS",
+    "product_gtin": "4062013141787",
+    "supplier_price": 11.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-ballerines-dorees-corolle-vetements-4062013141787.html"
+  },
+  {
+    "product_name": "BB36 CAPE DE BAIN PINGOUIN - COROLLE VETEMENTS",
+    "product_gtin": "4062013141671",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-cape-de-bain-pingouin-corolle-vetements-4062013141671.html"
+  },
+  {
+    "product_name": "BB36 COFFRET ACCESSOIRES A LANGER FLORAL -COROLLE ACCESSOIRES",
+    "product_gtin": "4062013141817",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-coffret-accessoires-a-langer-floral-corolle-accessoires-4062013141817.html"
+  },
+  {
+    "product_name": "BB36 ENSEMBLE HIVER WEEK-END A PARIS -COROLLE VETEMENTS",
+    "product_gtin": "4062013141749",
+    "supplier_price": 16.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-ensemble-hiver-week-end-a-paris-corolle-vetements-4062013141749.html"
+  },
+  {
+    "product_name": "BB36 MANTEAU COROLLE VETEMENTS",
+    "product_gtin": "4062013141770",
+    "supplier_price": 22.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-manteau-corolle-vetements-4062013141770.html"
+  },
+  {
+    "product_name": "BB36 PYJAMA + BANDEAU BRILLE DANS LA NUIT -COROLLE VETEMENTS",
+    "product_gtin": "4062013141688",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-pyjama-bandeau-brille-dans-la-nuit-corolle-vetements-4062013141688.html"
+  },
+  {
+    "product_name": "BB36 PYJAMA COROLLE  VETEMENTS",
+    "product_gtin": "4062013141756",
+    "supplier_price": 22.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-pyjama-corolle-vetements-4062013141756.html"
+  },
+  {
+    "product_name": "BB36 PYJAMA ROSE & ET BONNET  - COROLLE VETEMENTS",
+    "product_gtin": "4062013141138",
+    "supplier_price": 22.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-pyjama-rose-et-bonnet-corolle-vetements-4062013141138.html"
+  },
+  {
+    "product_name": "BB36 ROBE COROLLE VETEMENTS",
+    "product_gtin": "4062013141763",
+    "supplier_price": 22.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-robe-corolle-vetements-4062013141763.html"
+  },
+  {
+    "product_name": "BB36 T-SHIRT + SALOPETTE WEEK-END A PARIS - COROLLE VETEMENTS",
+    "product_gtin": "4062013141701",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-t-shirt-salopette-week-end-a-paris-corolle-vetements-4062013141701.html"
+  },
+  {
+    "product_name": "BB36-42 BOITE DE 12 COUCHES -COROLLE ACCESSOIRES",
+    "product_gtin": "4062013141558",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36-42-boite-de-12-couches-corolle-accessoires-4062013141558.html"
+  },
+  {
+    "product_name": "BB36/42 ENSEMBLE COUFFIN PELUCHE ROSE -COROLLE ACCESSOIRES",
+    "product_gtin": "4062013141855",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36/42-ensemble-couffin-peluche-rose-corolle-accessoires-4062013141855.html"
+  },
+  {
+    "product_name": "BB36/42 PORTE BEBE FLORAL -COROLLE ACCESSOIRES",
+    "product_gtin": "4062013141831",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36/42-porte-bebe-floral-corolle-accessoires-4062013141831.html"
+  },
+  {
+    "product_name": "BB36/42 PORTE-POUPON FLORAL - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013141848",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36/42-porte-poupon-floral-corolle-accessoires-4062013141848.html"
+  },
+  {
+    "product_name": "BB36/42/52 - POUSSETTE CANNE ROSE - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013141640",
+    "supplier_price": 22.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36/42/52-poussette-canne-rose-corolle-accessoires-4062013141640.html"
+  },
+  {
+    "product_name": "BB36/42/52 LANDAU FLORAL - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013141862",
+    "supplier_price": 74.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb36/42/52-landau-floral-corolle-accessoires-4062013141862.html"
+  },
+  {
+    "product_name": "BB42 PILOTE OURS BRUN COROLLE VETEMENTS",
+    "product_gtin": "4062013160221",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb42-pilote-ours-brun-corolle-vetements-4062013160221.html"
+  },
+  {
+    "product_name": "BB42 ROBE WEEK-END A PARIS - COROLLE VETEMENTS",
+    "product_gtin": "4062013160177",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb42-robe-week-end-a-paris-corolle-vetements-4062013160177.html"
+  },
+  {
+    "product_name": "BB42 T-SHIRT + SALOPETTE WEEK-END A PARIS - COROLLE VETEMENTS",
+    "product_gtin": "4062013160184",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/bb42-t-shirt-salopette-week-end-a-paris-corolle-vetements-4062013160184.html"
+  },
+  {
+    "product_name": "BEBE APPREND A MARCHER",
+    "product_gtin": "3393143399207",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/bebe-apprend-a-marcher-3393143399207.html"
+  },
+  {
+    "product_name": "BEBE BISOU 30 CM",
+    "product_gtin": "3393143401627",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/bebe-bisou-30-cm-3393143401627.html"
+  },
+  {
+    "product_name": "BEBE CHERI COROLLE MON GRAND POUPON",
+    "product_gtin": "4062013170046",
+    "supplier_price": 74.99,
+    "product_link": "https://www.joueclub.fr/poupees/bebe-cheri-corolle-mon-grand-poupon-4062013170046.html"
+  },
+  {
+    "product_name": "BEBE DANS SA BAIGNOIRE 35 CM",
+    "product_gtin": "3393143395148",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/bebe-dans-sa-baignoire-35-cm-3393143395148.html"
+  },
+  {
+    "product_name": "BEBE INTERACTIF ET SON OURSON",
+    "product_gtin": "3393143399214",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/bebe-interactif-et-son-ourson-3393143399214.html"
+  },
+  {
+    "product_name": "BEBE LAPIN BEIGE 35 CM",
+    "product_gtin": "3393143403775",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/bebe-lapin-beige-35-cm-3393143403775.html"
+  },
+  {
+    "product_name": "CHAISE HAUTE",
+    "product_gtin": "3393143395162",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/chaise-haute-3393143395162.html"
+  },
+  {
+    "product_name": "CHEVAL A BASCULE",
+    "product_gtin": "3070900077997",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/cheval-a-bascule-3070900077997.html"
+  },
+  {
+    "product_name": "CICCIOBELLO  - POUPON BOBO",
+    "product_gtin": "8001444432060",
+    "supplier_price": 79.99,
+    "product_link": "https://www.joueclub.fr/poupees/cicciobello-poupon-bobo-8001444432060.html"
+  },
+  {
+    "product_name": "CICCIOBELLO - POUPEE MARCHE DANS LA NEIGE",
+    "product_gtin": "8056379151333",
+    "supplier_price": 74.99,
+    "product_link": "https://www.joueclub.fr/poupees/cicciobello-poupee-marche-dans-la-neige-8056379151333.html"
+  },
+  {
+    "product_name": "CICCIOBELLO - PREMIERS MOTS",
+    "product_gtin": "8056379172994",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/cicciobello-premiers-mots-8056379172994.html"
+  },
+  {
+    "product_name": "COFFRET 5 TENUES POUR POUPEE MANNEQUIN",
+    "product_gtin": "3393143402372",
+    "supplier_price": 9.99,
+    "product_link": "https://www.joueclub.fr/poupees/coffret-5-tenues-pour-poupee-mannequin-3393143402372.html"
+  },
+  {
+    "product_name": "COFFRET BEBE ET ACCESSOIRES",
+    "product_gtin": "3393143403744",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/coffret-bebe-et-accessoires-3393143403744.html"
+  },
+  {
+    "product_name": "COFFRET MINI BAIN - COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013120331",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/coffret-mini-bain-corolle-mon-premier-poupon-4062013120331.html"
+  },
+  {
+    "product_name": "COFFRET MINI MONDE DE ROMY -COROLLE MES MINI COROLLINES",
+    "product_gtin": "4062013240237",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/coffret-mini-monde-de-romy-corolle-mes-mini-corollines-4062013240237.html"
+  },
+  {
+    "product_name": "COFFRET MINI MONDE DE ROSY 20 CM - COROLLE MES MINI COROLLINES",
+    "product_gtin": "4062013240107",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/coffret-mini-monde-de-rosy-20-cm-corolle-mes-mini-corollines-4062013240107.html"
+  },
+  {
+    "product_name": "COFFRET POUPEES JENNY VOITURE ET BATEAU",
+    "product_gtin": "3393143398286",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/coffret-poupees-jenny-voiture-et-bateau-3393143398286.html"
+  },
+  {
+    "product_name": "COFFRET PROMENADE BEBE",
+    "product_gtin": "3393143395155",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/coffret-promenade-bebe-3393143395155.html"
+  },
+  {
+    "product_name": "COFFRET VALENTINE A LA MONTAGNE - COROLLE GIRLS",
+    "product_gtin": "4062013600291",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/coffret-valentine-a-la-montagne-corolle-girls-4062013600291.html"
+  },
+  {
+    "product_name": "CONSTANCE BALLERINE 36 CM - COROLLE MA COROLLE",
+    "product_gtin": "4062013200200",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/constance-ballerine-36-cm-corolle-ma-corolle-4062013200200.html"
+  },
+  {
+    "product_name": "COROLLE GIRLS - DRESSING DE FETE - 7 ACCESSOIRES - POUR POUPEE MANNEQUIN 28CM",
+    "product_gtin": "4062013610092",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/corolle-girls-dressing-de-fete-7-accessoires-pour-poupee-mannequin-28cm-4062013610092.html"
+  },
+  {
+    "product_name": "COROLLE GIRLS - DRESSING ROMANTIQUE - 7 ACCESSOIRES - POUR POUPEE MANNEQUIN 28CM",
+    "product_gtin": "4062013610016",
+    "supplier_price": 11.99,
+    "product_link": "https://www.joueclub.fr/poupees/corolle-girls-dressing-romantique-7-accessoires-pour-poupee-mannequin-28cm-4062013610016.html"
+  },
+  {
+    "product_name": "COROLLE GIRLS - POUPEE COFFRET LUNA FASHION WEEK MILAN - 28CM",
+    "product_gtin": "4062013600178",
+    "supplier_price": 32.99,
+    "product_link": "https://www.joueclub.fr/poupees/corolle-girls-poupee-coffret-luna-fashion-week-milan-28cm-4062013600178.html"
+  },
+  {
+    "product_name": "COROLLE GIRLS - POUPEE COFFRET LUNA LICORNE 28 CM",
+    "product_gtin": "4062013600253",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/corolle-girls-poupee-coffret-luna-licorne-28-cm-4062013600253.html"
+  },
+  {
+    "product_name": "COROLLE GIRLS - POUPEE COFFRET MELODY FASHION WEEK NEW YORK - 28CM",
+    "product_gtin": "4062013600161",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/corolle-girls-poupee-coffret-melody-fashion-week-new-york-28cm-4062013600161.html"
+  },
+  {
+    "product_name": "COROLLE GIRLS - POUPEE COFFRET MELODY MUSIC ET MODE 28 CM",
+    "product_gtin": "4062013600246",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/corolle-girls-poupee-coffret-melody-music-et-mode-28-cm-4062013600246.html"
+  },
+  {
+    "product_name": "COROLLE GIRLS - POUPEE COFFRET VALENTINE BALLERINE 28 CM",
+    "product_gtin": "4062013600239",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/corolle-girls-poupee-coffret-valentine-ballerine-28-cm-4062013600239.html"
+  },
+  {
+    "product_name": "COROLLE GIRLS - POUPEE MANNEQUIN - COFFRET MELODY PYJAMA PARTY - 28CM",
+    "product_gtin": "4062013600208",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/corolle-girls-poupee-mannequin-coffret-melody-pyjama-party-28cm-4062013600208.html"
+  },
+  {
+    "product_name": "COROLLE GIRLS - POUPEE MANNEQUIN - COFFRET VALENTINE FASHION WEEK PARIS - COROLLE VETEMENTS 28 CM",
+    "product_gtin": "4062013600154",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/corolle-girls-poupee-mannequin-coffret-valentine-fashion-week-paris-corolle-vetements-28-cm-4062013600154.html"
+  },
+  {
+    "product_name": "COROLLE GIRLS - POUPEE MANNEQUIN - COFFRET ZOE FASHION WEEK LONDRES  - 28 CM",
+    "product_gtin": "4062013600185",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/corolle-girls-poupee-mannequin-coffret-zoe-fashion-week-londres-28-cm-4062013600185.html"
+  },
+  {
+    "product_name": "COROLLE MA COROLLE -  T-SHIRT RAYE MANCHES LONGUES",
+    "product_gtin": "4062013212807",
+    "supplier_price": 9.99,
+    "product_link": "https://www.joueclub.fr/poupees/corolle-ma-corolle-t-shirt-raye-manches-longues-4062013212807.html"
+  },
+  {
+    "product_name": "COROLLE MA COROLLE - COMBINAISON MARINE",
+    "product_gtin": "4062013212791",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/corolle-ma-corolle-combinaison-marine-4062013212791.html"
+  },
+  {
+    "product_name": "COUFFIN TRICOT",
+    "product_gtin": "3393143395261",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/couffin-tricot-3393143395261.html"
+  },
+  {
+    "product_name": "CŒUR OURS ROSE - COROLLE MON DOUDOU",
+    "product_gtin": "4062013100708",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/coeur-ours-rose-corolle-mon-doudou-4062013100708.html"
+  },
+  {
+    "product_name": "DDUNG - POUPEE SHORT ETOILES 18 CM",
+    "product_gtin": "3393143395094",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/ddung-poupee-short-etoiles-18-cm-3393143395094.html"
+  },
+  {
+    "product_name": "DECORA GIRLZ - MINI POUPEE  FASHION A PERSONNALISER - LUNA",
+    "product_gtin": "3181860551035",
+    "supplier_price": 16.99,
+    "product_link": "https://www.joueclub.fr/poupees/decora-girlz-mini-poupee-fashion-a-personnaliser-luna-3181860551035.html"
+  },
+  {
+    "product_name": "DECORA GIRLZ - MINI POUPEE FASHION A PERSONNALISER - DECORA",
+    "product_gtin": "3181860551011",
+    "supplier_price": 16.99,
+    "product_link": "https://www.joueclub.fr/poupees/decora-girlz-mini-poupee-fashion-a-personnaliser-decora-3181860551011.html"
+  },
+  {
+    "product_name": "DISNEY  - LA REINE DES NEIGES - POUPEE ANNA",
+    "product_gtin": "0194735120734",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-la-reine-des-neiges-poupee-anna-0194735120734.html"
+  },
+  {
+    "product_name": "DISNEY  - LA REINE DES NEIGES - POUPEE ELSA",
+    "product_gtin": "0194735120758",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-la-reine-des-neiges-poupee-elsa-0194735120758.html"
+  },
+  {
+    "product_name": "DISNEY - CHATEAU DE GLACE",
+    "product_gtin": "0194735313310",
+    "supplier_price": 94.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-chateau-de-glace-0194735313310.html"
+  },
+  {
+    "product_name": "DISNEY FROZEN - COFFRET LIVRE D’HISTOIRES LA REINE DES NEIGES",
+    "product_gtin": "0194735121267",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-frozen-coffret-livre-d-histoires-la-reine-des-neiges-0194735121267.html"
+  },
+  {
+    "product_name": "DISNEY ILY - POUPEE 45 CM LOOK ELSA",
+    "product_gtin": "0192995234437",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-ily-poupee-45-cm-look-elsa-0192995234437.html"
+  },
+  {
+    "product_name": "DISNEY ILY - POUPEE 45 CM LOOK STITCH",
+    "product_gtin": "0192995229426",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-ily-poupee-45-cm-look-stitch-0192995229426.html"
+  },
+  {
+    "product_name": "DISNEY ILY - POUPEE MANNEQUIN LOOK STITCH",
+    "product_gtin": "0192995228573",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-ily-poupee-mannequin-look-stitch-0192995228573.html"
+  },
+  {
+    "product_name": "DISNEY LA REINE DES NEIGES 2 - POUPEE ANNA",
+    "product_gtin": "0194735120840",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-la-reine-des-neiges-2-poupee-anna-0194735120840.html"
+  },
+  {
+    "product_name": "DISNEY LA REINE DES NEIGES 2 - POUPEE ELSA",
+    "product_gtin": "0194735120796",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-la-reine-des-neiges-2-poupee-elsa-0194735120796.html"
+  },
+  {
+    "product_name": "DISNEY POUPEE BELLE ET COMPAGNIE",
+    "product_gtin": "0194735293056",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-poupee-belle-et-compagnie-0194735293056.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESS - CENDRILLON POUPEE ET TENUES",
+    "product_gtin": "0194735275427",
+    "supplier_price": 14.0,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princess-cendrillon-poupee-et-tenues-0194735275427.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESS - POUPEE  BELLE 29 CM",
+    "product_gtin": "0194735120345",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princess-poupee-belle-29-cm-0194735120345.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESS - POUPEE ARIEL 29 CM",
+    "product_gtin": "0194735120338",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princess-poupee-ariel-29-cm-0194735120338.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESS - POUPEE AURORE 29 CM",
+    "product_gtin": "0194735120352",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princess-poupee-aurore-29-cm-0194735120352.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESS - POUPEE CENDRILLON 29 CM",
+    "product_gtin": "0194735120253",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princess-poupee-cendrillon-29-cm-0194735120253.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESS - POUPEE JASMINE 29 CM",
+    "product_gtin": "0194735120246",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princess-poupee-jasmine-29-cm-0194735120246.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESS - POUPEE POCAHONTAS 29 CM",
+    "product_gtin": "0194735120369",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princess-poupee-pocahontas-29-cm-0194735120369.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESS - POUPEE RAIPONCE 29 CM",
+    "product_gtin": "0194735120307",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princess-poupee-raiponce-29-cm-0194735120307.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESS - POUPEE SPIN AND REVEAL JASMINE",
+    "product_gtin": "0194735239719",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princess-poupee-spin-and-reveal-jasmine-0194735239719.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESS - POUPEE SPIN AND REVEAL ROYAL ARIEL",
+    "product_gtin": "0194735239665",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princess-poupee-spin-and-reveal-royal-ariel-0194735239665.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESS - POUPEE TIANA 29 CM",
+    "product_gtin": "0194735120284",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princess-poupee-tiana-29-cm-0194735120284.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESS - POUPEE VAIANA 29 CM",
+    "product_gtin": "0194735158430",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princess-poupee-vaiana-29-cm-0194735158430.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESSE - POUPEE CENDRILLON 38 CM",
+    "product_gtin": "0192995230149",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princesse-poupee-cendrillon-38-cm-0192995230149.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESSE - POUPEE SPIN AND REVEAL ROYAL RAIPONCE",
+    "product_gtin": "0194735239689",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princesse-poupee-spin-and-reveal-royal-raiponce-0194735239689.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESSES - CHATEAU ET CAROSSE 2 EN 1",
+    "product_gtin": "0194735222766",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princesses-chateau-et-carosse-2-en-1-0194735222766.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESSES - LA COIFFEUSE DE RAIPONCE",
+    "product_gtin": "0194735121588",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princesses-la-coiffeuse-de-raiponce-0194735121588.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESSES - POUPEE ARIEL 38 CM",
+    "product_gtin": "0192995230125",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princesses-poupee-ariel-38-cm-0192995230125.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESSES - POUPEE ARIEL MUSICALE 38CM",
+    "product_gtin": "0192995224926",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princesses-poupee-ariel-musicale-38cm-0192995224926.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESSES - POUPEE BELLE 38 CM",
+    "product_gtin": "0192995230132",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princesses-poupee-belle-38-cm-0192995230132.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESSES - POUPEE BLANCHE NEIGE 38 CM",
+    "product_gtin": "0192995230200",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princesses-poupee-blanche-neige-38-cm-0192995230200.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESSES - POUPEE RAIPONCE 38 CM",
+    "product_gtin": "0192995230156",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princesses-poupee-raiponce-38-cm-0192995230156.html"
+  },
+  {
+    "product_name": "DISNEY PRINCESSES – POUPEE ARIEL NAGEUSE",
+    "product_gtin": "0194735156306",
+    "supplier_price": 15.0,
+    "product_link": "https://www.joueclub.fr/poupees/disney-princesses-poupee-ariel-nageuse-0194735156306.html"
+  },
+  {
+    "product_name": "DISNEY VAIANA - COFFRET POUPEE 15 CM MAUI & VAIANA",
+    "product_gtin": "0192995237551",
+    "supplier_price": 31.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-vaiana-coffret-poupee-15-cm-maui-vaiana-0192995237551.html"
+  },
+  {
+    "product_name": "DISNEY VAIANA - COFFRET POUPEE VAIANA ET SA SŒUR",
+    "product_gtin": "0194735265411",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-vaiana-coffret-poupee-vaiana-et-sa-soeur-0194735265411.html"
+  },
+  {
+    "product_name": "DISNEY VAIANA - COLLIER COQUILLAGE LUMINEUX",
+    "product_gtin": "0192995237612",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-vaiana-collier-coquillage-lumineux-0192995237612.html"
+  },
+  {
+    "product_name": "DISNEY VAIANA - LA PIROGUE DE VAIANA",
+    "product_gtin": "0194735265237",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-vaiana-la-pirogue-de-vaiana-0194735265237.html"
+  },
+  {
+    "product_name": "DISNEY VAIANA - POUPEE 38 CM VAIANA",
+    "product_gtin": "0192995237575",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-vaiana-poupee-38-cm-vaiana-0192995237575.html"
+  },
+  {
+    "product_name": "DISNEY VAIANA - POUPEE VAIANA 2 CHANTANTE",
+    "product_gtin": "0194735265428",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-vaiana-poupee-vaiana-2-chantante-0194735265428.html"
+  },
+  {
+    "product_name": "DISNEY VAIANA - POUPEE VAÏANA 2",
+    "product_gtin": "0194735265169",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-vaiana-poupee-vaiana-2-0194735265169.html"
+  },
+  {
+    "product_name": "DISNEY VAIANA 2 - COFFRET POUPEE CHANTANTE VAIANA 38 CM",
+    "product_gtin": "0192995237599",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-vaiana-2-coffret-poupee-chantante-vaiana-38-cm-0192995237599.html"
+  },
+  {
+    "product_name": "DISNEY VAIANA 2 - COFFRET POUPEE DUO VAIANA ET MAUI",
+    "product_gtin": "0194735281619",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-vaiana-2-coffret-poupee-duo-vaiana-et-maui-0194735281619.html"
+  },
+  {
+    "product_name": "DISNEY VAIANA 2 - POUPEES VAIANA ET MAUI",
+    "product_gtin": "0194735281626",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-vaiana-2-poupees-vaiana-et-maui-0194735281626.html"
+  },
+  {
+    "product_name": "DISNEY WISH - COFFRET 3 POUPEES 15 CM",
+    "product_gtin": "0192995230026",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-wish-coffret-3-poupees-15-cm-0192995230026.html"
+  },
+  {
+    "product_name": "DISNEY WISH - LE CHATEAU DE MAGNIFICO",
+    "product_gtin": "0194735170005",
+    "supplier_price": 54.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-wish-le-chateau-de-magnifico-0194735170005.html"
+  },
+  {
+    "product_name": "DISNEY WISH - MINI PERSONNAGE SURPRISE",
+    "product_gtin": "0194735169962",
+    "supplier_price": 7.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-wish-mini-personnage-surprise-0194735169962.html"
+  },
+  {
+    "product_name": "DISNEY WISH - POUPEE ASHA",
+    "product_gtin": "0194735170012",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-wish-poupee-asha-0194735170012.html"
+  },
+  {
+    "product_name": "DISNEY WISH - POUPEE ASHA 38 CM",
+    "product_gtin": "0192995228429",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-wish-poupee-asha-38-cm-0192995228429.html"
+  },
+  {
+    "product_name": "DISNEY WISH - POUPEE ASHA CHANTANTE",
+    "product_gtin": "0194735209514",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-wish-poupee-asha-chantante-0194735209514.html"
+  },
+  {
+    "product_name": "DISNEY WISH - POUPEE D-XIN",
+    "product_gtin": "0194735169948",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-wish-poupee-d-xin-0194735169948.html"
+  },
+  {
+    "product_name": "DISNEY WISH - REINE AMAYA ET ROI MAGNIFICO",
+    "product_gtin": "0194735172498",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/disney-wish-reine-amaya-et-roi-magnifico-0194735172498.html"
+  },
+  {
+    "product_name": "DOORABLES ADOORBS POUPEE  STITCH",
+    "product_gtin": "0886144458118",
+    "supplier_price": 31.99,
+    "product_link": "https://www.joueclub.fr/poupees/doorables-adoorbs-poupee-stitch-0886144458118.html"
+  },
+  {
+    "product_name": "DOORABLES ADOORBS POUPEE ANGELE",
+    "product_gtin": "0886144458163",
+    "supplier_price": 31.99,
+    "product_link": "https://www.joueclub.fr/poupees/doorables-adoorbs-poupee-angele-0886144458163.html"
+  },
+  {
+    "product_name": "DORA L'EXPLORATRICE - POUPEE DANSE AVEC MOI DORA",
+    "product_gtin": "0681147060395",
+    "supplier_price": 61.99,
+    "product_link": "https://www.joueclub.fr/poupees/dora-l-exploratrice-poupee-danse-avec-moi-dora-0681147060395.html"
+  },
+  {
+    "product_name": "DORA L'EXPLORATRICE - POUPEE DORA 15 CM + FIGURINE BABOUCHE DORA",
+    "product_gtin": "0681147047013",
+    "supplier_price": 16.99,
+    "product_link": "https://www.joueclub.fr/poupees/dora-l-exploratrice-poupee-dora-15-cm-figurine-babouche-dora-0681147047013.html"
+  },
+  {
+    "product_name": "DORA L'EXPLORATRICE - POUPEE DORA CHANTE ET EXPLORE",
+    "product_gtin": "0681147043374",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/dora-l-exploratrice-poupee-dora-chante-et-explore-0681147043374.html"
+  },
+  {
+    "product_name": "DSINEY PRINCESS - POUPEE  BLANCHE-NEIGE 29 CM",
+    "product_gtin": "0194735120277",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/dsiney-princess-poupee-blanche-neige-29-cm-0194735120277.html"
+  },
+  {
+    "product_name": "ELLIAN ET LE SORTILEGE -  POUPEE MANNEQUIN",
+    "product_gtin": "0681147022843",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/ellian-et-le-sortilege-poupee-mannequin-0681147022843.html"
+  },
+  {
+    "product_name": "ELLIAN ET LE SORTILEGE - PACK FIGURINE GRYPHON ENVOUTE",
+    "product_gtin": "0778988467701",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/ellian-et-le-sortilege-pack-figurine-gryphon-envoute-0778988467701.html"
+  },
+  {
+    "product_name": "ELLIAN ET LE SORTILEGE - PLAYSET CARROSSE MAGIQUE ET FIGURINES ENVOUTE",
+    "product_gtin": "0778988467657",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/ellian-et-le-sortilege-playset-carrosse-magique-et-figurines-envoute-0778988467657.html"
+  },
+  {
+    "product_name": "ELLIAN ET LE SORTILEGE - POUPEE MANNEQUIN ELLIAN ET MONSTRES ENVOUTES  AVENTURES A LUMBRIA",
+    "product_gtin": "0778988467473",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/ellian-et-le-sortilege-poupee-mannequin-ellian-et-monstres-envoutes-aventures-a-lumbria-0778988467473.html"
+  },
+  {
+    "product_name": "ELLIAN ET LE SORTILEGE - POUPEE MANNEQUIN ELLIAN SPELLBOUND",
+    "product_gtin": "0778988467459",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/ellian-et-le-sortilege-poupee-mannequin-ellian-spellbound-0778988467459.html"
+  },
+  {
+    "product_name": "ELLIAN ET LE SORTILEGE -POUPEE A FONCTIONS ELLIAN SPELLBOUND",
+    "product_gtin": "0778988467442",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/ellian-et-le-sortilege-poupee-a-fonctions-ellian-spellbound-0778988467442.html"
+  },
+  {
+    "product_name": "FAIRYTALE PRINCESS -  LA REINE DES NEIGE - POUPEE PRINCESSE 25 CM",
+    "product_gtin": "8056379154884",
+    "supplier_price": 16.99,
+    "product_link": "https://www.joueclub.fr/poupees/fairytale-princess-la-reine-des-neige-poupee-princesse-25-cm-8056379154884.html"
+  },
+  {
+    "product_name": "GABBY ET LA MAISON MAGIQUE - POUPEE GABBY SIRENE A FONCTIONS",
+    "product_gtin": "0681147088900",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/gabby-et-la-maison-magique-poupee-gabby-sirene-a-fonctions-0681147088900.html"
+  },
+  {
+    "product_name": "GORJUSS  - POUPEE ET BOITE A BIJOUX",
+    "product_gtin": "8426842062761",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/gorjuss-poupee-et-boite-a-bijoux-8426842062761.html"
+  },
+  {
+    "product_name": "GRAND COFFRET D'ACCESSOIRES 30 CM - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013110448",
+    "supplier_price": 36.99,
+    "product_link": "https://www.joueclub.fr/poupees/grand-coffret-d-accessoires-30-cm-corolle-accessoires-4062013110448.html"
+  },
+  {
+    "product_name": "HARRY POTTER - MGA'S MINIVERSE - MAKE IT MINI - SALLE DES POTIONS A CONSTRUIRE",
+    "product_gtin": "0035051531166",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/harry-potter-mga-s-miniverse-make-it-mini-salle-des-potions-a-construire-0035051531166.html"
+  },
+  {
+    "product_name": "HELLO KITTY - POUPEE ARTICULEE 4SF CANDY UNICORN",
+    "product_gtin": "8056379194187",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/hello-kitty-poupee-articulee-4sf-candy-unicorn-8056379194187.html"
+  },
+  {
+    "product_name": "HELLO KITTY - POUPEE ARTICULEE 4SF GOLDEN DIVA",
+    "product_gtin": "8056379194163",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/hello-kitty-poupee-articulee-4sf-golden-diva-8056379194163.html"
+  },
+  {
+    "product_name": "HELLO KITTY - POUPEE ARTICULEE 4SF PRETTY PINK",
+    "product_gtin": "8056379194170",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/hello-kitty-poupee-articulee-4sf-pretty-pink-8056379194170.html"
+  },
+  {
+    "product_name": "HELLO KITTY - POUPEE ARTICULEE 4SF TEDDY ROCK",
+    "product_gtin": "8056379194156",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/hello-kitty-poupee-articulee-4sf-teddy-rock-8056379194156.html"
+  },
+  {
+    "product_name": "JEANNE MON BEBE INTERACTIF 38 CM",
+    "product_gtin": "3393143400736",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/jeanne-mon-bebe-interactif-38-cm-3393143400736.html"
+  },
+  {
+    "product_name": "JEANS SLIM - COROLLE MA COROLLE",
+    "product_gtin": "4062013210018",
+    "supplier_price": 9.99,
+    "product_link": "https://www.joueclub.fr/poupees/jeans-slim-corolle-ma-corolle-4062013210018.html"
+  },
+  {
+    "product_name": "JENNY - POUPEE BALADE EN FAMILLE 29 CM",
+    "product_gtin": "3393143399269",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/jenny-poupee-balade-en-famille-29-cm-3393143399269.html"
+  },
+  {
+    "product_name": "JENNY - POUPEE CENTRE EQUESTRE 29 CM",
+    "product_gtin": "3393143399252",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/jenny-poupee-centre-equestre-29-cm-3393143399252.html"
+  },
+  {
+    "product_name": "JUNIOR HIGH MUSIQUE - POUPEE MANNEQUIN 22 CM - AMAYA",
+    "product_gtin": "0035051565772",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/junior-high-musique-poupee-mannequin-22-cm-amaya-0035051565772.html"
+  },
+  {
+    "product_name": "JUNIOR HIGH MUSIQUE - POUPEE MANNEQUIN 22 CM - BELLA",
+    "product_gtin": "0035051565659",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/junior-high-musique-poupee-mannequin-22-cm-bella-0035051565659.html"
+  },
+  {
+    "product_name": "JUNIOR HIGH MUSIQUE - POUPEE MANNEQUIN 22 CM - SKYLER",
+    "product_gtin": "0035051565215",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/junior-high-musique-poupee-mannequin-22-cm-skyler-0035051565215.html"
+  },
+  {
+    "product_name": "JUNIOR HIGH MUSIQUE - POUPEES MANNEQUIN 22 CM - SUNNY",
+    "product_gtin": "0035051565628",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/junior-high-musique-poupees-mannequin-22-cm-sunny-0035051565628.html"
+  },
+  {
+    "product_name": "JUPE A VOLANTS - COROLLE MA COROLLE",
+    "product_gtin": "4062013212777",
+    "supplier_price": 9.99,
+    "product_link": "https://www.joueclub.fr/poupees/jupe-a-volants-corolle-ma-corolle-4062013212777.html"
+  },
+  {
+    "product_name": "KAWAII HI  POUPEE CORA 26 CM",
+    "product_gtin": "4006592097127",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/kawaii-hi-poupee-cora-26-cm-4006592097127.html"
+  },
+  {
+    "product_name": "KAWAII HI  POUPEE MIA 26 CM",
+    "product_gtin": "4006592097103",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/kawaii-hi-poupee-mia-26-cm-4006592097103.html"
+  },
+  {
+    "product_name": "KAWAII HI POUPEE LUCY 26 CM",
+    "product_gtin": "4006592097110",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/kawaii-hi-poupee-lucy-26-cm-4006592097110.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - AVA ET LEAF PLANT MAGIC",
+    "product_gtin": "0681147058101",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-ava-et-leaf-plant-magic-0681147058101.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - COFFRET LICORNE ET POUPEE CINDER ET VALENTINA",
+    "product_gtin": "0681147061934",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-coffret-licorne-et-poupee-cinder-et-valentina-0681147061934.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - COFFRET LICORNE ET POUPEE GLACIER ET LAYLA",
+    "product_gtin": "0681147061927",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-coffret-licorne-et-poupee-glacier-et-layla-0681147061927.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - COFFRET LICORNE ET POUPEE LEAF ET AVA",
+    "product_gtin": "0681147061910",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-coffret-licorne-et-poupee-leaf-et-ava-0681147061910.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - COFFRET LICORNE ET POUPEE RIVER ET ISABEL",
+    "product_gtin": "0681147061897",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-coffret-licorne-et-poupee-river-et-isabel-0681147061897.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - COFFRET LICORNE ET POUPEE STORM ET RORY",
+    "product_gtin": "0681147089716",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-coffret-licorne-et-poupee-storm-et-rory-0681147089716.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - COFFRET LICORNE ET POUPEE WILDSTAR ET SOPHIA",
+    "product_gtin": "0681147061835",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-coffret-licorne-et-poupee-wildstar-et-sophia-0681147061835.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - LICORNE A FONCTIONS 28 CM WILDSTAR",
+    "product_gtin": "0681147024502",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-licorne-a-fonctions-28-cm-wildstar-0681147024502.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - LICORNE A FONCTIONS 28 CM WILDSTAR ET POUPEE 24 CM",
+    "product_gtin": "0681147043084",
+    "supplier_price": 54.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-licorne-a-fonctions-28-cm-wildstar-et-poupee-24-cm-0681147043084.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - POUPEE 24 CM SOPHIA",
+    "product_gtin": "0778988461860",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-poupee-24-cm-sophia-0778988461860.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - POUPEE AVA 24 CM",
+    "product_gtin": "0778988249789",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-poupee-ava-24-cm-0778988249789.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - POUPEE DELUXE 24 CM SOPHIA AU BAL MASQUE",
+    "product_gtin": "0778988454688",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-poupee-deluxe-24-cm-sophia-au-bal-masque-0778988454688.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - POUPEE ISABEL 24 CM",
+    "product_gtin": "0778988249802",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-poupee-isabel-24-cm-0778988249802.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES - POUPEE SOPHIA ET WILDSTAR MAGIC LIGHT",
+    "product_gtin": "0778988249796",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-poupee-sophia-et-wildstar-magic-light-0778988249796.html"
+  },
+  {
+    "product_name": "L'ECOLE DES LICORNES -POUPEE 24 CM LAYLA",
+    "product_gtin": "0681147036574",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/l-ecole-des-licornes-poupee-24-cm-layla-0681147036574.html"
+  },
+  {
+    "product_name": "LA REINE DES NEIGES - COFFRET CHATEAU DELUXE",
+    "product_gtin": "0194735295982",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/la-reine-des-neiges-coffret-chateau-deluxe-0194735295982.html"
+  },
+  {
+    "product_name": "LA REINE DES NEIGES - POUPEE  ELSA ET L'OURSON",
+    "product_gtin": "0194735295920",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/la-reine-des-neiges-poupee-elsa-et-l-ourson-0194735295920.html"
+  },
+  {
+    "product_name": "LA REINE DES NEIGES - POUPEE ANNA ET LE LOUVETEAU",
+    "product_gtin": "0194735295913",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/la-reine-des-neiges-poupee-anna-et-le-louveteau-0194735295913.html"
+  },
+  {
+    "product_name": "LA REINE DES NEIGES - POUPEE ELSA CHANTANTE I",
+    "product_gtin": "0194735290550",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/la-reine-des-neiges-poupee-elsa-chantante-i-0194735290550.html"
+  },
+  {
+    "product_name": "LA REINE DES NEIGES - POUPEE ELSA PATINEUSE",
+    "product_gtin": "0194735287406",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/la-reine-des-neiges-poupee-elsa-patineuse-0194735287406.html"
+  },
+  {
+    "product_name": "LA REINE DES NEIGES - SPIN AND REVEAL ANNA",
+    "product_gtin": "0194735226863",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/la-reine-des-neiges-spin-and-reveal-anna-0194735226863.html"
+  },
+  {
+    "product_name": "LA REINE DES NEIGES -POUPEE ANNA CHANTANTE",
+    "product_gtin": "0194735290628",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/la-reine-des-neiges-poupee-anna-chantante-0194735290628.html"
+  },
+  {
+    "product_name": "LA REINE DES NEIGES 2 - POUPEE ELSA AVENTURE 38 CM",
+    "product_gtin": "0192995211803",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/la-reine-des-neiges-2-poupee-elsa-aventure-38-cm-0192995211803.html"
+  },
+  {
+    "product_name": "LANDAU 4 EN 1",
+    "product_gtin": "3393143395698",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/landau-4-en-1-3393143395698.html"
+  },
+  {
+    "product_name": "LANDAU DE VILLE",
+    "product_gtin": "3393143394394",
+    "supplier_price": 89.99,
+    "product_link": "https://www.joueclub.fr/poupees/landau-de-ville-3393143394394.html"
+  },
+  {
+    "product_name": "LE MANOIR DES SORCIERS",
+    "product_gtin": "3393143342654",
+    "supplier_price": 99.99,
+    "product_link": "https://www.joueclub.fr/poupees/le-manoir-des-sorciers-3393143342654.html"
+  },
+  {
+    "product_name": "LEA BEBE REALISTE 40 CM",
+    "product_gtin": "3393143405021",
+    "supplier_price": 69.99,
+    "product_link": "https://www.joueclub.fr/poupees/lea-bebe-realiste-40-cm-3393143405021.html"
+  },
+  {
+    "product_name": "LIT PARAPLUIE",
+    "product_gtin": "3393143394059",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/lit-parapluie-3393143394059.html"
+  },
+  {
+    "product_name": "LIT POUR POUPON - MAXI-COSI CO-DODO",
+    "product_gtin": "3032162402405",
+    "supplier_price": 47.99,
+    "product_link": "https://www.joueclub.fr/poupees/lit-pour-poupon-maxi-cosi-co-dodo-3032162402405.html"
+  },
+  {
+    "product_name": "LITTLE LOVE - MON BEBE A BERCER",
+    "product_gtin": "3417761966051",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/little-love-mon-bebe-a-bercer-3417761966051.html"
+  },
+  {
+    "product_name": "LITTLE LOVE - POUPEE EMMA JOUE A CACHE-CACHE 32 CM",
+    "product_gtin": "3417765382055",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/little-love-poupee-emma-joue-a-cache-cache-32-cm-3417765382055.html"
+  },
+  {
+    "product_name": "LITTLE SMOBY - BABY WALKER 3 EN 1 + POUPON",
+    "product_gtin": "3032161403083",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/little-smoby-baby-walker-3-en-1-poupon-3032161403083.html"
+  },
+  {
+    "product_name": "LOL SURPRISE -  POUPEE AVEC BALLON A EAU  7,5CM",
+    "product_gtin": "0035051505068",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-poupee-avec-ballon-a-eau-7-5cm-0035051505068.html"
+  },
+  {
+    "product_name": "LOL SURPRISE - HAIR BEADS POUPEE 7,5 CM",
+    "product_gtin": "0035051511205",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-hair-beads-poupee-7-5-cm-0035051511205.html"
+  },
+  {
+    "product_name": "LOL SURPRISE - MIX ET MAKE BIRTHDAY CAKE   MINI POUPEE 7.5CM",
+    "product_gtin": "0035051593140",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-mix-et-make-birthday-cake-mini-poupee-7-5cm-0035051593140.html"
+  },
+  {
+    "product_name": "LOL SURPRISE - POUPEE - BUBBLE SURPRISE 7,5 cm",
+    "product_gtin": "0035051119777",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-poupee-bubble-surprise-7-5-cm-0035051119777.html"
+  },
+  {
+    "product_name": "LOL SURPRISE - TWEENS COSTUME SURPRISE - AYA CHERRY",
+    "product_gtin": "0035051504054",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-tweens-costume-surprise-aya-cherry-0035051504054.html"
+  },
+  {
+    "product_name": "LOL SURPRISE - TWEENS COSTUME SURPRISE - EMMA EMO",
+    "product_gtin": "0035051504139",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-tweens-costume-surprise-emma-emo-0035051504139.html"
+  },
+  {
+    "product_name": "LOL SURPRISE - TWEENS SWAP - BLOND BILLIE",
+    "product_gtin": "0035051591740",
+    "supplier_price": 36.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-tweens-swap-blond-billie-0035051591740.html"
+  },
+  {
+    "product_name": "LOL SURPRISE CITY CRUISER™ VOITURE ET MINI POUPEE 7.5 CM",
+    "product_gtin": "0035051591771",
+    "supplier_price": 36.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-city-cruiser-voiture-et-mini-poupee-7-5-cm-0035051591771.html"
+  },
+  {
+    "product_name": "LOL SURPRISE LOVES HELLO KITTY TOTS POUPEES 7,5 CM",
+    "product_gtin": "0035051523840",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-loves-hello-kitty-tots-poupees-7-5-cm-0035051523840.html"
+  },
+  {
+    "product_name": "LOL SURPRISE MERMAIDS! POUPEES 7,5CM",
+    "product_gtin": "0035051510604",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-mermaids-poupees-7-5cm-0035051510604.html"
+  },
+  {
+    "product_name": "LOL SURPRISE OMG - POUPEE SPEEDSTER 25 CM",
+    "product_gtin": "0035051588580",
+    "supplier_price": 27.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-omg-poupee-speedster-25-cm-0035051588580.html"
+  },
+  {
+    "product_name": "LOL SURPRISE OMG ENTRY DOLL - BUBBLEGUM D.J.",
+    "product_gtin": "0035051595649",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-omg-entry-doll-bubblegum-d-j-0035051595649.html"
+  },
+  {
+    "product_name": "LOL SURPRISE OMG ENTRY DOLL - CANDYLICIOUS",
+    "product_gtin": "0035051595625",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-omg-entry-doll-candylicious-0035051595625.html"
+  },
+  {
+    "product_name": "LOL SURPRISE OMG ENTRY DOLL - MISS ROYALE",
+    "product_gtin": "0035051595656",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-omg-entry-doll-miss-royale-0035051595656.html"
+  },
+  {
+    "product_name": "LOL SURPRISE TWEENS - POUPEE SIRENE - CLEO COVE",
+    "product_gtin": "0035051510437",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-tweens-poupee-sirene-cleo-cove-0035051510437.html"
+  },
+  {
+    "product_name": "LOL SURPRISE TWEENS - POUPEE SIRENE - LANA MARINE",
+    "product_gtin": "0035051510444",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-tweens-poupee-sirene-lana-marine-0035051510444.html"
+  },
+  {
+    "product_name": "LOL SURPRISE TWEENS POUPEE  -  FRESHEST",
+    "product_gtin": "0035051542582",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-tweens-poupee-freshest-0035051542582.html"
+  },
+  {
+    "product_name": "LOL SURPRISE TWEENS POUPEE  - CHERRY B.B.",
+    "product_gtin": "0035051542575",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-tweens-poupee-cherry-b-b-0035051542575.html"
+  },
+  {
+    "product_name": "LOL SURPRISE TWEENS POUPEE  - FANCY GURL",
+    "product_gtin": "0035051542568",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-tweens-poupee-fancy-gurl-0035051542568.html"
+  },
+  {
+    "product_name": "LOL SURPRISE TWEENS POUPEE - OLIVIA FLUTTER",
+    "product_gtin": "0035051559412",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-tweens-poupee-olivia-flutter-0035051559412.html"
+  },
+  {
+    "product_name": "LOL SURPRISE TWEENS POUPEE SIRENE - LOLA WAVES",
+    "product_gtin": "0035051510451",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-tweens-poupee-sirene-lola-waves-0035051510451.html"
+  },
+  {
+    "product_name": "LOL SURPRISE TWEENS POUPEE SIRENE - SERENA FINN",
+    "product_gtin": "0035051510598",
+    "supplier_price": 17.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-tweens-poupee-sirene-serena-finn-0035051510598.html"
+  },
+  {
+    "product_name": "LOL SURPRISE UNICORN - POUPEES 7,5CM",
+    "product_gtin": "0035051121336",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/lol-surprise-unicorn-poupees-7-5cm-0035051121336.html"
+  },
+  {
+    "product_name": "LUNA, MA POUPEE ETOILES MAGIQUES",
+    "product_gtin": "3417765322051",
+    "supplier_price": 32.99,
+    "product_link": "https://www.joueclub.fr/poupees/luna-ma-poupee-etoiles-magiques-3417765322051.html"
+  },
+  {
+    "product_name": "MA CHAISE HAUTE EN BOIS",
+    "product_gtin": "3393143393960",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-chaise-haute-en-bois-3393143393960.html"
+  },
+  {
+    "product_name": "MA COROLLE -  MANTEAU COROLLE EN FETES",
+    "product_gtin": "4062013212968",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-corolle-manteau-corolle-en-fetes-4062013212968.html"
+  },
+  {
+    "product_name": "MA COROLLE - DOUDOUNE ROSE - VETEMENT POUR POUPEE - COROLLE VETEMENTS",
+    "product_gtin": "4062013212265",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-corolle-doudoune-rose-vetement-pour-poupee-corolle-vetements-4062013212265.html"
+  },
+  {
+    "product_name": "MA COROLLE - MANTEAU PETALES DE CŒURS - COROLLE COUTURE",
+    "product_gtin": "4062013212746",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-corolle-manteau-petales-de-coeurs-corolle-couture-4062013212746.html"
+  },
+  {
+    "product_name": "MA COROLLE - ROBE & BANDEAU COROLLE EN FETES",
+    "product_gtin": "4062013212951",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-corolle-robe-bandeau-corolle-en-fetes-4062013212951.html"
+  },
+  {
+    "product_name": "MA COROLLE - ROBE ET BANDEAU - VETEMENT POUR POUPEE - COROLLE ACCESSOIRES",
+    "product_gtin": "4062013212487",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-corolle-robe-et-bandeau-vetement-pour-poupee-corolle-accessoires-4062013212487.html"
+  },
+  {
+    "product_name": "MA COROLLE - ROBE FLEURIE ROSE - VETEMENT POUR POUPEE - COROLLE VETEMENTS",
+    "product_gtin": "4062013212111",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-corolle-robe-fleurie-rose-vetement-pour-poupee-corolle-vetements-4062013212111.html"
+  },
+  {
+    "product_name": "MA COROLLE - ROBE ROSE A PAILLETTES - VETEMENT POUR POUPEE - COROLLE VETEMENTS",
+    "product_gtin": "4062013212135",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-corolle-robe-rose-a-paillettes-vetement-pour-poupee-corolle-vetements-4062013212135.html"
+  },
+  {
+    "product_name": "MA COROLLE COFFRET COUTURE + ACCESSOIRES 36 CM - COROLLE MON GRAND POUPON",
+    "product_gtin": "4062013212814",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-corolle-coffret-couture-accessoires-36-cm-corolle-mon-grand-poupon-4062013212814.html"
+  },
+  {
+    "product_name": "MA COROLLE ENSEMBLE JUPE ET T-SHIRT IVOIRE ET OR 36 CM - COROLLE MA COROLLE",
+    "product_gtin": "4062013212906",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-corolle-ensemble-jupe-et-t-shirt-ivoire-et-or-36-cm-corolle-ma-corolle-4062013212906.html"
+  },
+  {
+    "product_name": "MA COROLLE SET DE 2 LEGGINGS 36 CM - COROLLE MA COROLLE",
+    "product_gtin": "4062013212913",
+    "supplier_price": 11.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-corolle-set-de-2-leggings-36-cm-corolle-ma-corolle-4062013212913.html"
+  },
+  {
+    "product_name": "MA COROLLE T-SHIRT FUCHSIA COROLLLE ACADEMY MANCHES LONGUES 36 CM - COROLLE MON GRAND POUPON",
+    "product_gtin": "4062013212883",
+    "supplier_price": 9.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-corolle-t-shirt-fuchsia-corollle-academy-manches-longues-36-cm-corolle-mon-grand-poupon-4062013212883.html"
+  },
+  {
+    "product_name": "MA GIGOTEUSE",
+    "product_gtin": "3393143394011",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-gigoteuse-3393143394011.html"
+  },
+  {
+    "product_name": "MA POUPEE 30 CM ET SON CHAT",
+    "product_gtin": "3393143400880",
+    "supplier_price": 28.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-poupee-30-cm-et-son-chat-3393143400880.html"
+  },
+  {
+    "product_name": "MA POUPEE BLONDE 36 CM",
+    "product_gtin": "3393143400958",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-poupee-blonde-36-cm-3393143400958.html"
+  },
+  {
+    "product_name": "MA PREMIERE NURSERY",
+    "product_gtin": "3280250018391",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-premiere-nursery-3280250018391.html"
+  },
+  {
+    "product_name": "MA PREMIERE POUSSETTE CANNE - BLEUE",
+    "product_gtin": "3393143397555",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-premiere-poussette-canne-bleue-3393143397555.html"
+  },
+  {
+    "product_name": "MA PREMIERE POUSSETTE CANNE - ROSE",
+    "product_gtin": "3393143397562",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/ma-premiere-poussette-canne-rose-3393143397562.html"
+  },
+  {
+    "product_name": "MAXI-COSI POUSSETTE + LANDAU BEIGE",
+    "product_gtin": "3032162531228",
+    "supplier_price": 64.99,
+    "product_link": "https://www.joueclub.fr/poupees/maxi-cosi-poussette-landau-beige-3032162531228.html"
+  },
+  {
+    "product_name": "MAXI-COSI POUSSETTE + LANDAU ROSE",
+    "product_gtin": "3032162531211",
+    "supplier_price": 64.99,
+    "product_link": "https://www.joueclub.fr/poupees/maxi-cosi-poussette-landau-rose-3032162531211.html"
+  },
+  {
+    "product_name": "MC ENSEMBLE HOMEWEAR 2 PIECES",
+    "product_gtin": "4062013212975",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/mc-ensemble-homewear-2-pieces-4062013212975.html"
+  },
+  {
+    "product_name": "MERCREDI - POUPEE",
+    "product_gtin": "0194735230488",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/mercredi-poupee-0194735230488.html"
+  },
+  {
+    "product_name": "MERCREDI - POUPEE",
+    "product_gtin": "0194735288878",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/mercredi-poupee-0194735288878.html"
+  },
+  {
+    "product_name": "MGA'S MINIVERSE - MAKE IT MINI APPAREILS ELECTROMENAGERS",
+    "product_gtin": "0035051505600",
+    "supplier_price": 16.99,
+    "product_link": "https://www.joueclub.fr/poupees/mga-s-miniverse-make-it-mini-appareils-electromenagers-0035051505600.html"
+  },
+  {
+    "product_name": "MGA'S MINIVERSE - MAKE IT MINI LIFESTYLE HOME SERIE 1A",
+    "product_gtin": "0035051505372",
+    "supplier_price": 9.99,
+    "product_link": "https://www.joueclub.fr/poupees/mga-s-miniverse-make-it-mini-lifestyle-home-serie-1a-0035051505372.html"
+  },
+  {
+    "product_name": "MGA'S MINIVERSE - MAKE IT MINI LIFESTYLE SERIE 2",
+    "product_gtin": "0035051505358",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/mga-s-miniverse-make-it-mini-lifestyle-serie-2-0035051505358.html"
+  },
+  {
+    "product_name": "MGA'S MINIVERSE MAKE IT MINI - MULTI PACK",
+    "product_gtin": "0035051591849",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/mga-s-miniverse-make-it-mini-multi-pack-0035051591849.html"
+  },
+  {
+    "product_name": "MGA'S MINIVERSE- MAKE IT MINI FOODS - CAFE - SERIE 3A",
+    "product_gtin": "0035051505396",
+    "supplier_price": 9.99,
+    "product_link": "https://www.joueclub.fr/poupees/mga-s-miniverse-make-it-mini-foods-cafe-serie-3a-0035051505396.html"
+  },
+  {
+    "product_name": "MIA BEBE REBORN 35 CM",
+    "product_gtin": "3393143405052",
+    "supplier_price": 79.99,
+    "product_link": "https://www.joueclub.fr/poupees/mia-bebe-reborn-35-cm-3393143405052.html"
+  },
+  {
+    "product_name": "MINI BAIN BLEU 20 CM - COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013120317",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/mini-bain-bleu-20-cm-corolle-mon-premier-poupon-4062013120317.html"
+  },
+  {
+    "product_name": "MINI BAIN ROSE  20 CM -  COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013120324",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/mini-bain-rose-20-cm-corolle-mon-premier-poupon-4062013120324.html"
+  },
+  {
+    "product_name": "MINI CALIN BONNE NUIT PAPILLONS 20 CM -  COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013120300",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/mini-calin-bonne-nuit-papillons-20-cm-corolle-mon-premier-poupon-4062013120300.html"
+  },
+  {
+    "product_name": "MINI CALIN LAPINS YEUX BLEUS 20 CM - COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013120270",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/mini-calin-lapins-yeux-bleus-20-cm-corolle-mon-premier-poupon-4062013120270.html"
+  },
+  {
+    "product_name": "MINNIE - COFFRET FIGURINE ARTICULEE 15 CM SWEET PARTY",
+    "product_gtin": "0886144899928",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/minnie-coffret-figurine-articulee-15-cm-sweet-party-0886144899928.html"
+  },
+  {
+    "product_name": "MIRACULOUS -  POUPEE COLOR CHANGE SURPRISE",
+    "product_gtin": "3701405812201",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/miraculous-poupee-color-change-surprise-3701405812201.html"
+  },
+  {
+    "product_name": "MIRACULOUS - POUPEE LADYBUG TRANSFORMATION 26 CM",
+    "product_gtin": "3701405822941",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/miraculous-poupee-ladybug-transformation-26-cm-3701405822941.html"
+  },
+  {
+    "product_name": "MIRACULOUS -MINI-POUPEE 12 CM",
+    "product_gtin": "3701405800352",
+    "supplier_price": 16.99,
+    "product_link": "https://www.joueclub.fr/poupees/miraculous-mini-poupee-12-cm-3701405800352.html"
+  },
+  {
+    "product_name": "MIRACULOUS COFFRET DE TRANSFORMATION - RENA ROUGE",
+    "product_gtin": "3701405801656",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/miraculous-coffret-de-transformation-rena-rouge-3701405801656.html"
+  },
+  {
+    "product_name": "MIRACULOUS PACK DE 2 POUPEES 26 CM - MARINETTE & ADRIEN",
+    "product_gtin": "3701405827038",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/miraculous-pack-de-2-poupees-26-cm-marinette-adrien-3701405827038.html"
+  },
+  {
+    "product_name": "MIRACULOUS PACK DE 2 POUPEES AVEC 2 TENUES",
+    "product_gtin": "3701405829384",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/miraculous-pack-de-2-poupees-avec-2-tenues-3701405829384.html"
+  },
+  {
+    "product_name": "MIRACULOUS POUPEE 26 CM - LADYBUG",
+    "product_gtin": "3701405815370",
+    "supplier_price": 25.99,
+    "product_link": "https://www.joueclub.fr/poupees/miraculous-poupee-26-cm-ladybug-3701405815370.html"
+  },
+  {
+    "product_name": "MIRACULOUS POUPEE 26 CM ET SES 2 TENUES - MARINETTE",
+    "product_gtin": "3701405800383",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/miraculous-poupee-26-cm-et-ses-2-tenues-marinette-3701405800383.html"
+  },
+  {
+    "product_name": "MIRACULOUS SCOOTER ET SA POUPEE LADYBUG",
+    "product_gtin": "3701405809157",
+    "supplier_price": 54.99,
+    "product_link": "https://www.joueclub.fr/poupees/miraculous-scooter-et-sa-poupee-ladybug-3701405809157.html"
+  },
+  {
+    "product_name": "MISS BALLERINE ROSE GRENADINE 25 CM - COROLLE MON DOUDOU",
+    "product_gtin": "4062013010205",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/miss-ballerine-rose-grenadine-25-cm-corolle-mon-doudou-4062013010205.html"
+  },
+  {
+    "product_name": "MISS ROSE GRENADINE 25 CM - COROLLE MON DOUDOU",
+    "product_gtin": "4062013010199",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/miss-rose-grenadine-25-cm-corolle-mon-doudou-4062013010199.html"
+  },
+  {
+    "product_name": "MON ADORABLE GRAND POUPON JARDIN EN FLEURS 36 CM - COROLLE MON GRAND POUPON",
+    "product_gtin": "4062013130491",
+    "supplier_price": 41.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-adorable-grand-poupon-jardin-en-fleurs-36-cm-corolle-mon-grand-poupon-4062013130491.html"
+  },
+  {
+    "product_name": "MON ADORABLE PETIT POUPON CŒURS 30 CM - COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013100814",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-adorable-petit-poupon-coeurs-30-cm-corolle-mon-premier-poupon-4062013100814.html"
+  },
+  {
+    "product_name": "MON BEBE CABRIOLES",
+    "product_gtin": "3181860550519",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-bebe-cabrioles-3181860550519.html"
+  },
+  {
+    "product_name": "MON BEBE CABRIOLES - LINA LA FRAISE",
+    "product_gtin": "3181860550854",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-bebe-cabrioles-lina-la-fraise-3181860550854.html"
+  },
+  {
+    "product_name": "MON BEBE CABRIOLES - MIMI LE CHAT",
+    "product_gtin": "3181860550809",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-bebe-cabrioles-mimi-le-chat-3181860550809.html"
+  },
+  {
+    "product_name": "MON BEBE CABRIOLES - NOA LE BEBE",
+    "product_gtin": "3181860550861",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-bebe-cabrioles-noa-le-bebe-3181860550861.html"
+  },
+  {
+    "product_name": "MON BEBE ET SA BOUEE LICORNE",
+    "product_gtin": "3393143400835",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-bebe-et-sa-bouee-licorne-3393143400835.html"
+  },
+  {
+    "product_name": "MON BEBE ET SES 4 ACCESSOIRES",
+    "product_gtin": "3393143402716",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-bebe-et-ses-4-accessoires-3393143402716.html"
+  },
+  {
+    "product_name": "MON BEBE ET SES ACCESSOIRES",
+    "product_gtin": "3393143399849",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-bebe-et-ses-accessoires-3393143399849.html"
+  },
+  {
+    "product_name": "MON BEBE PREND SON REPAS",
+    "product_gtin": "3393143394264",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-bebe-prend-son-repas-3393143394264.html"
+  },
+  {
+    "product_name": "MON LIT A BASCULE EN BOIS",
+    "product_gtin": "3393143393977",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-lit-a-bascule-en-bois-3393143393977.html"
+  },
+  {
+    "product_name": "MON LIT SUPERPOSE EN BOIS",
+    "product_gtin": "3393143393984",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-lit-superpose-en-bois-3393143393984.html"
+  },
+  {
+    "product_name": "MON SAC A LANGER ET SES ACCESSOIRES",
+    "product_gtin": "3393143394295",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-sac-a-langer-et-ses-accessoires-3393143394295.html"
+  },
+  {
+    "product_name": "MON SIEGE AUTO COQUE",
+    "product_gtin": "3393143394400",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/mon-siege-auto-coque-3393143394400.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - COFFRET SECRETS CATTY",
+    "product_gtin": "0194735259854",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-coffret-secrets-catty-0194735259854.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - COFFRET SECRETS CLAWDEEN",
+    "product_gtin": "0194735259847",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-coffret-secrets-clawdeen-0194735259847.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - COFFRET SECRETS FRANKIE",
+    "product_gtin": "0194735259953",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-coffret-secrets-frankie-0194735259953.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - LA CAFETERIA DES GOULES",
+    "product_gtin": "0194735069859",
+    "supplier_price": 57.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-la-cafeteria-des-goules-0194735069859.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE CLAWDEEN WOLF",
+    "product_gtin": "0194735183579",
+    "supplier_price": 17.0,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-clawdeen-wolf-0194735183579.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE CLEO ANNIVERSAIRE",
+    "product_gtin": "0194735259915",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-cleo-anniversaire-0194735259915.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE CLEO DE NILE",
+    "product_gtin": "0194735230426",
+    "supplier_price": 17.0,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-cleo-de-nile-0194735230426.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE DRACULAURA",
+    "product_gtin": "0194735183326",
+    "supplier_price": 17.0,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-draculaura-0194735183326.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE FRANKIE STEIN",
+    "product_gtin": "0194735230587",
+    "supplier_price": 17.0,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-frankie-stein-0194735230587.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE JINAFIRE LONG",
+    "product_gtin": "0194735256310",
+    "supplier_price": 17.0,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-jinafire-long-0194735256310.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE LA CHAMBRE DE CLAWDEEN WOLF",
+    "product_gtin": "0194735069842",
+    "supplier_price": 54.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-la-chambre-de-clawdeen-wolf-0194735069842.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE LAGOONA BLUE",
+    "product_gtin": "0194735230518",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-lagoona-blue-0194735230518.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE MERCREDI ROBE DE BAL",
+    "product_gtin": "0194735230594",
+    "supplier_price": 69.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-mercredi-robe-de-bal-0194735230594.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE MONSTER FEST FRANKIE",
+    "product_gtin": "0194735230679",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-monster-fest-frankie-0194735230679.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE SECRETS CACHES",
+    "product_gtin": "0194735256327",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-secrets-caches-0194735256327.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE SKELITA",
+    "product_gtin": "0194735333561",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-skelita-0194735333561.html"
+  },
+  {
+    "product_name": "MONSTER HIGH - POUPEE TOUR BUS MONSTER FEST",
+    "product_gtin": "0194735230358",
+    "supplier_price": 79.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-tour-bus-monster-fest-0194735230358.html"
+  },
+  {
+    "product_name": "MONSTER HIGH -COFFRET POUPEE SECRETS S5 TWYLA",
+    "product_gtin": "0194735255436",
+    "supplier_price": 41.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-coffret-poupee-secrets-s5-twyla-0194735255436.html"
+  },
+  {
+    "product_name": "MONSTER HIGH -LYCEE",
+    "product_gtin": "0194735117666",
+    "supplier_price": 209.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-lycee-0194735117666.html"
+  },
+  {
+    "product_name": "MONSTER HIGH -POUPEE CUPID ANNIVERSAIRE",
+    "product_gtin": "0194735259878",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-cupid-anniversaire-0194735259878.html"
+  },
+  {
+    "product_name": "MONSTER HIGH -POUPEE DRACULAURA",
+    "product_gtin": "0194735333721",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-draculaura-0194735333721.html"
+  },
+  {
+    "product_name": "MONSTER HIGH -POUPEE DRACULAURA ANNIVERSAIRE",
+    "product_gtin": "0194735259830",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-draculaura-anniversaire-0194735259830.html"
+  },
+  {
+    "product_name": "MONSTER HIGH -POUPEE FRANKIE ANNIVERSAIRE",
+    "product_gtin": "0194735259861",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-poupee-frankie-anniversaire-0194735259861.html"
+  },
+  {
+    "product_name": "MONSTER HIGH DRAME AU CINEMA - POUPEE CLAWDEEN WOLF",
+    "product_gtin": "0194735104802",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-drame-au-cinema-poupee-clawdeen-wolf-0194735104802.html"
+  },
+  {
+    "product_name": "MONSTER HIGH DRAME AU CINEMA - POUPEE DRACULAURA",
+    "product_gtin": "0194735104819",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-drame-au-cinema-poupee-draculaura-0194735104819.html"
+  },
+  {
+    "product_name": "MONSTER HIGH DRAME AU CINEMA - POUPEE FRANKIE STEIN",
+    "product_gtin": "0194735104789",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-drame-au-cinema-poupee-frankie-stein-0194735104789.html"
+  },
+  {
+    "product_name": "MONSTER HIGH DRAME AU CINEMA - POUPEE POUPEE CLEO DE NILE",
+    "product_gtin": "0194735288984",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-drame-au-cinema-poupee-poupee-cleo-de-nile-0194735288984.html"
+  },
+  {
+    "product_name": "MONSTER HIGH X MERCREDI - POUPEE ENID",
+    "product_gtin": "0194735230549",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/monster-high-x-mercredi-poupee-enid-0194735230549.html"
+  },
+  {
+    "product_name": "MY MODEL - DOLL DESIGN - FASHION ATELIER",
+    "product_gtin": "8412668193505",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/my-model-doll-design-fashion-atelier-8412668193505.html"
+  },
+  {
+    "product_name": "NANCY - POUPEE UNE JOURNEE DE BEAUTE 42 CM",
+    "product_gtin": "8410779081292",
+    "supplier_price": 64.99,
+    "product_link": "https://www.joueclub.fr/poupees/nancy-poupee-une-journee-de-beaute-42-cm-8410779081292.html"
+  },
+  {
+    "product_name": "NID D'ANGE",
+    "product_gtin": "3393143395568",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/nid-d-ange-3393143395568.html"
+  },
+  {
+    "product_name": "PISCINE DE JENNY",
+    "product_gtin": "5404031205260",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/piscine-de-jenny-5404031205260.html"
+  },
+  {
+    "product_name": "PORTE POUPEE",
+    "product_gtin": "3393143394417",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/porte-poupee-3393143394417.html"
+  },
+  {
+    "product_name": "POUPEE - PALOMA - 36CM - COROLLE MA COROLLE",
+    "product_gtin": "4062013200057",
+    "supplier_price": 42.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-paloma-36cm-corolle-ma-corolle-4062013200057.html"
+  },
+  {
+    "product_name": "POUPEE - PRUNE - 36CM - COROLLE MA COROLLE",
+    "product_gtin": "4062013200071",
+    "supplier_price": 42.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-prune-36cm-corolle-ma-corolle-4062013200071.html"
+  },
+  {
+    "product_name": "POUPEE 27 CM PEARLINA - KINDI KIDS",
+    "product_gtin": "0630996501573",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-27-cm-pearlina-kindi-kids-0630996501573.html"
+  },
+  {
+    "product_name": "POUPEE ALBA 50 CM",
+    "product_gtin": "3393143403843",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-alba-50-cm-3393143403843.html"
+  },
+  {
+    "product_name": "POUPEE AMANDINE 25CM",
+    "product_gtin": "3666502000046",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-amandine-25cm-3666502000046.html"
+  },
+  {
+    "product_name": "POUPEE ANNA LES PREMIERS MOTS 38 CM",
+    "product_gtin": "3393143394387",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-anna-les-premiers-mots-38-cm-3393143394387.html"
+  },
+  {
+    "product_name": "POUPEE ARIEL CHANTANTE",
+    "product_gtin": "0194735143238",
+    "supplier_price": 32.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-ariel-chantante-0194735143238.html"
+  },
+  {
+    "product_name": "POUPEE BEBE MINI MELLO 21 CM KINDI KIDS",
+    "product_gtin": "0630996501283",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-bebe-mini-mello-21-cm-kindi-kids-0630996501283.html"
+  },
+  {
+    "product_name": "POUPEE CALIE 6 SONS 30 CM",
+    "product_gtin": "3393143399887",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-calie-6-sons-30-cm-3393143399887.html"
+  },
+  {
+    "product_name": "POUPEE CAPUCINE",
+    "product_gtin": "3393143395421",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-capucine-3393143395421.html"
+  },
+  {
+    "product_name": "POUPEE CHARLIE 38 CM",
+    "product_gtin": "3393143399894",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-charlie-38-cm-3393143399894.html"
+  },
+  {
+    "product_name": "POUPEE CHLOE MEDIUM",
+    "product_gtin": "4895029636592",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-chloe-medium-4895029636592.html"
+  },
+  {
+    "product_name": "POUPEE CLARA MA GRANDE SOEUR 105 CM",
+    "product_gtin": "3393143401702",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-clara-ma-grande-soeur-105-cm-3393143401702.html"
+  },
+  {
+    "product_name": "POUPEE COFFRET ROSY BALLERINE 20 CM - COROLLE MES MINI COROLLINES",
+    "product_gtin": "4062013240138",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-coffret-rosy-ballerine-20-cm-corolle-mes-mini-corollines-4062013240138.html"
+  },
+  {
+    "product_name": "POUPEE DAPHNE 25CM",
+    "product_gtin": "3666502000213",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-daphne-25cm-3666502000213.html"
+  },
+  {
+    "product_name": "POUPEE EMMA 40 CM",
+    "product_gtin": "3393143394325",
+    "supplier_price": 64.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-emma-40-cm-3393143394325.html"
+  },
+  {
+    "product_name": "POUPEE EN TISSUS - EMILIE 25 CM",
+    "product_gtin": "3666502000152",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-en-tissus-emilie-25-cm-3666502000152.html"
+  },
+  {
+    "product_name": "POUPEE EN TISSUS - LEONIE 25 CM",
+    "product_gtin": "3666502000176",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-en-tissus-leonie-25-cm-3666502000176.html"
+  },
+  {
+    "product_name": "POUPEE GOTHIQUE ROBE DE BAL",
+    "product_gtin": "8420712110088",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-gothique-robe-de-bal-8420712110088.html"
+  },
+  {
+    "product_name": "POUPEE GOTHIQUE ROBE NOIRE 33 CM",
+    "product_gtin": "8420712110057",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-gothique-robe-noire-33-cm-8420712110057.html"
+  },
+  {
+    "product_name": "POUPEE JENNY BALLERINE",
+    "product_gtin": "5404031201583",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-jenny-ballerine-5404031201583.html"
+  },
+  {
+    "product_name": "POUPEE JENNY ET SA VOITURE",
+    "product_gtin": "3393143398279",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-jenny-et-sa-voiture-3393143398279.html"
+  },
+  {
+    "product_name": "POUPEE JENNY MAITRESSE 29 CM",
+    "product_gtin": "5404031201699",
+    "supplier_price": 16.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-jenny-maitresse-29-cm-5404031201699.html"
+  },
+  {
+    "product_name": "POUPEE JENNY PEDIATRE 29 CM",
+    "product_gtin": "5404031200425",
+    "supplier_price": 15.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-jenny-pediatre-29-cm-5404031200425.html"
+  },
+  {
+    "product_name": "POUPEE KAWAII BEDHEDZ 20 CM",
+    "product_gtin": "3700043316232",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-kawaii-bedhedz-20-cm-3700043316232.html"
+  },
+  {
+    "product_name": "POUPEE LAURA DOG SITTER",
+    "product_gtin": "5404031201675",
+    "supplier_price": 11.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-laura-dog-sitter-5404031201675.html"
+  },
+  {
+    "product_name": "POUPEE LAURA ET SON CABRIOLET",
+    "product_gtin": "5404031201668",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-laura-et-son-cabriolet-5404031201668.html"
+  },
+  {
+    "product_name": "POUPEE LAURA SOIGNE SES ANIMAUX",
+    "product_gtin": "5420019750782",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-laura-soigne-ses-animaux-5420019750782.html"
+  },
+  {
+    "product_name": "POUPEE LOU 40 CM",
+    "product_gtin": "3393143399993",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-lou-40-cm-3393143399993.html"
+  },
+  {
+    "product_name": "POUPEE LULA 55 CM",
+    "product_gtin": "8435083688340",
+    "supplier_price": 74.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-lula-55-cm-8435083688340.html"
+  },
+  {
+    "product_name": "POUPEE MANNEQUIN WINTER WONDERLAND - VIOLET (PURPLE",
+    "product_gtin": "0035051120865",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-mannequin-winter-wonderland-violet-purple-0035051120865.html"
+  },
+  {
+    "product_name": "POUPEE PAULINE 36 CM - COROLLE MA COROLLE",
+    "product_gtin": "4062013200101",
+    "supplier_price": 42.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-pauline-36-cm-corolle-ma-corolle-4062013200101.html"
+  },
+  {
+    "product_name": "POUPEE PERLE  COROLLE MA COROLLE",
+    "product_gtin": "4062013200262",
+    "supplier_price": 69.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-perle-corolle-ma-corolle-4062013200262.html"
+  },
+  {
+    "product_name": "POUPEE ROMY  - COROLLE MES MINI COROLLINES",
+    "product_gtin": "4062013240169",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-romy-corolle-mes-mini-corollines-4062013240169.html"
+  },
+  {
+    "product_name": "POUPEE ROMY 50 CM",
+    "product_gtin": "3393143403928",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-romy-50-cm-3393143403928.html"
+  },
+  {
+    "product_name": "POUPEE ROSY - COROLLE MES MINI COROLLINES",
+    "product_gtin": "4062013240152",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-rosy-corolle-mes-mini-corollines-4062013240152.html"
+  },
+  {
+    "product_name": "POUPEE ROSY FEE 2 - COROLLE MES MINI COROLLINES",
+    "product_gtin": "4062013240183",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-rosy-fee-2-corolle-mes-mini-corollines-4062013240183.html"
+  },
+  {
+    "product_name": "POUPEE RUBY - COROLLE MES MINI COROLLINES",
+    "product_gtin": "4062013240176",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-ruby-corolle-mes-mini-corollines-4062013240176.html"
+  },
+  {
+    "product_name": "POUPEE TETE A COIFFER 10 ACCESSOIRES - COROLLE  MON SALON DE COIFFURE",
+    "product_gtin": "4062013310046",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-tete-a-coiffer-10-accessoires-corolle-mon-salon-de-coiffure-4062013310046.html"
+  },
+  {
+    "product_name": "POUPEES JENNY ET LAURA GYMNASTIQUE",
+    "product_gtin": "5404031202351",
+    "supplier_price": 15.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupees-jenny-et-laura-gymnastique-5404031202351.html"
+  },
+  {
+    "product_name": "POUPON - BEBE CALIN MANON - MON PREMIER POUPON COROLLE - 30 CM",
+    "product_gtin": "4062013100272",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-bebe-calin-manon-mon-premier-poupon-corolle-30-cm-4062013100272.html"
+  },
+  {
+    "product_name": "POUPON ARMAND 33 CM",
+    "product_gtin": "3393143399009",
+    "supplier_price": 16.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-armand-33-cm-3393143399009.html"
+  },
+  {
+    "product_name": "POUPON CALIES 6 SONS",
+    "product_gtin": "3393143404031",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-calies-6-sons-3393143404031.html"
+  },
+  {
+    "product_name": "POUPON CALIN MARGAUX 30 CM - COROLLE MON PREMIER POUPON",
+    "product_gtin": "4062013100852",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-calin-margaux-30-cm-corolle-mon-premier-poupon-4062013100852.html"
+  },
+  {
+    "product_name": "POUPON DE BAIN 32 CM",
+    "product_gtin": "3393143398576",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-de-bain-32-cm-3393143398576.html"
+  },
+  {
+    "product_name": "POUPON ELIOTT CROCODILE - COROLLE MON GRAND POUPON",
+    "product_gtin": "4062013130545",
+    "supplier_price": 54.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-eliott-crocodile-corolle-mon-grand-poupon-4062013130545.html"
+  },
+  {
+    "product_name": "POUPON EMMA FAIT PIPI - FLEURIE - COROLLE MON GRAND POUPON",
+    "product_gtin": "4062013130576",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-emma-fait-pipi-fleurie-corolle-mon-grand-poupon-4062013130576.html"
+  },
+  {
+    "product_name": "POUPON EN TRICYCLE",
+    "product_gtin": "3393143399870",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-en-tricycle-3393143399870.html"
+  },
+  {
+    "product_name": "POUPON GABRIEL 35 CM",
+    "product_gtin": "3393143403850",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-gabriel-35-cm-3393143403850.html"
+  },
+  {
+    "product_name": "POUPON JADE 36 CM - COROLLE MON GRAND POUPON",
+    "product_gtin": "4062013130460",
+    "supplier_price": 64.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-jade-36-cm-corolle-mon-grand-poupon-4062013130460.html"
+  },
+  {
+    "product_name": "POUPON JULIA 42 CM",
+    "product_gtin": "3393143403904",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-julia-42-cm-3393143403904.html"
+  },
+  {
+    "product_name": "POUPON JULIE 36 CM - COROLLE MON GRAND POUPON",
+    "product_gtin": "4062013130477",
+    "supplier_price": 64.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-julie-36-cm-corolle-mon-grand-poupon-4062013130477.html"
+  },
+  {
+    "product_name": "POUPON LISE - COROLLE MON GRAND POUPON",
+    "product_gtin": "4062013130439",
+    "supplier_price": 54.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-lise-corolle-mon-grand-poupon-4062013130439.html"
+  },
+  {
+    "product_name": "POUPON LOUIS 45 CM",
+    "product_gtin": "8420712410119",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-louis-45-cm-8420712410119.html"
+  },
+  {
+    "product_name": "POUPON LUCIE 36 CM - COROLLE MON GRAND POUPON",
+    "product_gtin": "4062013130446",
+    "supplier_price": 57.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-lucie-36-cm-corolle-mon-grand-poupon-4062013130446.html"
+  },
+  {
+    "product_name": "POUPON MALO 28 CM",
+    "product_gtin": "3393143402723",
+    "supplier_price": 9.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-malo-28-cm-3393143402723.html"
+  },
+  {
+    "product_name": "POUPON NOUVEAU-NE EDEN 40 CM",
+    "product_gtin": "3393143403973",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-nouveau-ne-eden-40-cm-3393143403973.html"
+  },
+  {
+    "product_name": "POUPON NOUVEAU-NE FILLE 30 CM",
+    "product_gtin": "3393143403867",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-nouveau-ne-fille-30-cm-3393143403867.html"
+  },
+  {
+    "product_name": "POUPON NOUVEAU-NE GARCON 30 CM",
+    "product_gtin": "3393143403874",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-nouveau-ne-garcon-30-cm-3393143403874.html"
+  },
+  {
+    "product_name": "POUPON PAUL FAIT PIPI 36 CM - COROLLE MON GRAND POUPON",
+    "product_gtin": "4062013130415",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-paul-fait-pipi-36-cm-corolle-mon-grand-poupon-4062013130415.html"
+  },
+  {
+    "product_name": "POUPON ROSE - NOUVEAU NE REALISTE 42 CM - COROLLE MON GRAND POUPON",
+    "product_gtin": "4063013150076",
+    "supplier_price": 99.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-rose-nouveau-ne-realiste-42-cm-corolle-mon-grand-poupon-4063013150076.html"
+  },
+  {
+    "product_name": "POUPON SUZANNE 36 CM - COROLLE MON GRAND POUPON",
+    "product_gtin": "4062013130507",
+    "supplier_price": 69.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-suzanne-36-cm-corolle-mon-grand-poupon-4062013130507.html"
+  },
+  {
+    "product_name": "POUPON THEO 42 CM",
+    "product_gtin": "3393143397494",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-theo-42-cm-3393143397494.html"
+  },
+  {
+    "product_name": "POUPON TOM BOIT ET FAIT PIPI 35 CM",
+    "product_gtin": "3393143395582",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-tom-boit-et-fait-pipi-35-cm-3393143395582.html"
+  },
+  {
+    "product_name": "POUPON ZOE BOIT ET FAIT PIPI 35 CM",
+    "product_gtin": "3393143395575",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupon-zoe-boit-et-fait-pipi-35-cm-3393143395575.html"
+  },
+  {
+    "product_name": "POUPONS - LES TRIPLES 23 CM",
+    "product_gtin": "3393143394271",
+    "supplier_price": 32.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupons-les-triples-23-cm-3393143394271.html"
+  },
+  {
+    "product_name": "POUPONS JUMEAUX 30 CM",
+    "product_gtin": "3393143403737",
+    "supplier_price": 24.9,
+    "product_link": "https://www.joueclub.fr/poupees/poupons-jumeaux-30-cm-3393143403737.html"
+  },
+  {
+    "product_name": "POUPÉE 26 CM- CAT NOIR MIRACULOUS",
+    "product_gtin": "3701405801540",
+    "supplier_price": 25.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-26-cm-cat-noir-miraculous-3701405801540.html"
+  },
+  {
+    "product_name": "POUPÉE MANNEQUIN AVEC SURPRISES HAIRDORABLES - HAIRMAZING",
+    "product_gtin": "8056379100560",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/poupee-mannequin-avec-surprises-hairdorables-hairmazing-8056379100560.html"
+  },
+  {
+    "product_name": "POUSSETTE 3 ROUES",
+    "product_gtin": "3393143399061",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/poussette-3-roues-3393143399061.html"
+  },
+  {
+    "product_name": "POUSSETTE DOUBLE",
+    "product_gtin": "3393143395087",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/poussette-double-3393143395087.html"
+  },
+  {
+    "product_name": "PREMIER LANDAU",
+    "product_gtin": "3393143395186",
+    "supplier_price": 36.99,
+    "product_link": "https://www.joueclub.fr/poupees/premier-landau-3393143395186.html"
+  },
+  {
+    "product_name": "PTI' CŒUR ABEILLE  - COROLLE MON DOUDOU",
+    "product_gtin": "4062013100807",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/pti-coeur-abeille-corolle-mon-doudou-4062013100807.html"
+  },
+  {
+    "product_name": "PTI' CŒUR LAPIN BLANC - COROLLE MON DOUDOU",
+    "product_gtin": "4062013100715",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/pti-coeur-lapin-blanc-corolle-mon-doudou-4062013100715.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH  POUPEE MANNEQUIN 27CM THEME MODE - AMAYA",
+    "product_gtin": "0035051547532",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-poupee-mannequin-27cm-theme-mode-amaya-0035051547532.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH  POUPEE MANNEQUIN 27CM THEME MODE - BELLA",
+    "product_gtin": "0035051547549",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-poupee-mannequin-27cm-theme-mode-bella-0035051547549.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH  POUPEE MANNEQUIN 27CM THEME MODE - VIOLET",
+    "product_gtin": "0035051547563",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-poupee-mannequin-27cm-theme-mode-violet-0035051547563.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH - COFFRET POUPEE ET CASIER PINKLY PAIGE",
+    "product_gtin": "0035051121015",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-coffret-poupee-et-casier-pinkly-paige-0035051121015.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH - GARDE-ROBE ARC-EN-CIEL AVEC POUPEE MANNEQUIN - AMAYA",
+    "product_gtin": "0035051543183",
+    "supplier_price": 49.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-garde-robe-arc-en-ciel-avec-poupee-mannequin-amaya-0035051543183.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH - POUPEE HAIR STUDIO SALON DE BEAUTE",
+    "product_gtin": "0035051569329",
+    "supplier_price": 44.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-poupee-hair-studio-salon-de-beaute-0035051569329.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH - TETE A COIFFER BELLA 33 CM",
+    "product_gtin": "0035051120889",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-tete-a-coiffer-bella-33-cm-0035051120889.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH - WINTER WONDERLAND - POUPEE MANNEQUIN BELLA - 27CM",
+    "product_gtin": "0035051120827",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-winter-wonderland-poupee-mannequin-bella-27cm-0035051120827.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH - WINTER WONDERLAND - POUPEE MANNEQUIN SKYLER - 27CM",
+    "product_gtin": "0035051120834",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-winter-wonderland-poupee-mannequin-skyler-27cm-0035051120834.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH - WINTER WONDERLAND - POUPEE MANNEQUIN SUNNY - 27 CM",
+    "product_gtin": "0035051120858",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-winter-wonderland-poupee-mannequin-sunny-27-cm-0035051120858.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH COFFRET CASIERS D'ECOLE",
+    "product_gtin": "0035051507420",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-coffret-casiers-d-ecole-0035051507420.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH COLOR & CREATE AIRBRUSH - YEUX VIOLETS",
+    "product_gtin": "0035051543350",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-color-create-airbrush-yeux-violets-0035051543350.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH CRISTAL - POUPEE MANNEQUIN 27 CM - AMAYA",
+    "product_gtin": "0035051121411",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-cristal-poupee-mannequin-27-cm-amaya-0035051121411.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH CRISTAL - POUPEE MANNEQUIN 27 CM - BELLA",
+    "product_gtin": "0035051121367",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-cristal-poupee-mannequin-27-cm-bella-0035051121367.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH CRISTAL - POUPEE MANNEQUIN 27 CM - SKYLER",
+    "product_gtin": "0035051121374",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-cristal-poupee-mannequin-27-cm-skyler-0035051121374.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH CRISTAL POUPEE MANNEQUIN 27 CM - IRIS BOW",
+    "product_gtin": "0035051121381",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-cristal-poupee-mannequin-27-cm-iris-bow-0035051121381.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH CRISTAL POUPEE MANNEQUIN 27 CM - VIOLET",
+    "product_gtin": "0035051121404",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-cristal-poupee-mannequin-27-cm-violet-0035051121404.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH LITTLE PATISSERIE AVEC KANDY",
+    "product_gtin": "0035051522058",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-little-patisserie-avec-kandy-0035051522058.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH POUPEE MANNEQUIN BE DAZZLING 27 CM - ADELINE ROSE",
+    "product_gtin": "0035051597797",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-poupee-mannequin-be-dazzling-27-cm-adeline-rose-0035051597797.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH POUPEE MANNEQUIN BE DAZZLING 27 CM - GENEVIEVE BLEU",
+    "product_gtin": "0035051597810",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-poupee-mannequin-be-dazzling-27-cm-genevieve-bleu-0035051597810.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH POUPEE MANNEQUIN BE DAZZLING 27 CM - NOEMIE VIOLETTE",
+    "product_gtin": "0035051597834",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-poupee-mannequin-be-dazzling-27-cm-noemie-violette-0035051597834.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH POUPEES LITTLES - AMETHYST VIOLET",
+    "product_gtin": "0035051531234",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-poupees-littles-amethyst-violet-0035051531234.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH POUPEES LITTLES - DAISY JAUNE",
+    "product_gtin": "0035051531227",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-poupees-littles-daisy-jaune-0035051531227.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH POUPEES LITTLES - MAGENTA ROSE",
+    "product_gtin": "0035051531180",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-poupees-littles-magenta-rose-0035051531180.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH POUPEES LITTLES - OPAL ARC-EN-CIEL",
+    "product_gtin": "0035051531203",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-poupees-littles-opal-arc-en-ciel-0035051531203.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH POUPEES LITTLES - SAPPHIRE BLEU",
+    "product_gtin": "0035051531197",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-poupees-littles-sapphire-bleu-0035051531197.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH RAINBOW SHIMMERS WITH SLIME FASHION DOLL - BELLA ROSE",
+    "product_gtin": "0035051122401",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-rainbow-shimmers-with-slime-fashion-doll-bella-rose-0035051122401.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH SHIMMERS - POUPEE MANNEQUIN AVEC SLIME - SKYLER 27 CM",
+    "product_gtin": "0035051122418",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-shimmers-poupee-mannequin-avec-slime-skyler-27-cm-0035051122418.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH SHIMMERS - POUPEE MANNEQUIN AVEC SLIME 27CM - IRIS",
+    "product_gtin": "0035051122432",
+    "supplier_price": 36.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-shimmers-poupee-mannequin-avec-slime-27cm-iris-0035051122432.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH SPARKLE ET SHINE POUPEE MANNEQUIN 27CM - ROSETTA ROSE",
+    "product_gtin": "0035051427780",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-sparkle-et-shine-poupee-mannequin-27cm-rosetta-rose-0035051427780.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH SPARKLE ET SHINE POUPEE MANNEQUIN 27CM - VIOLA VIOLET",
+    "product_gtin": "0035051427810",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-sparkle-et-shine-poupee-mannequin-27cm-viola-violet-0035051427810.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH STUDIO - CRAIES ET COIFFURES - AMAYA",
+    "product_gtin": "0035051526780",
+    "supplier_price": 27.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-studio-craies-et-coiffures-amaya-0035051526780.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH SWIM ET STYLE POUPEE MANNEQUIN 27 CM - SKYLER BLEU",
+    "product_gtin": "0035051507307",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-swim-et-style-poupee-mannequin-27-cm-skyler-bleu-0035051507307.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH SWIM ET STYLE POUPEE MANNEQUIN 27CM - SUNNY JAUNE",
+    "product_gtin": "0035051507284",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-swim-et-style-poupee-mannequin-27cm-sunny-jaune-0035051507284.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH SWIM ET STYLE POUPEE MANNEQUIN 27CM - VIOLET",
+    "product_gtin": "0035051507314",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-swim-et-style-poupee-mannequin-27cm-violet-0035051507314.html"
+  },
+  {
+    "product_name": "RAINBOW HIGH TOWNHOUSE - GRANDE MAISON 114 CM",
+    "product_gtin": "0035051502203",
+    "supplier_price": 199.99,
+    "product_link": "https://www.joueclub.fr/poupees/rainbow-high-townhouse-grande-maison-114-cm-0035051502203.html"
+  },
+  {
+    "product_name": "RAIPONCE - POUPEE PIQUE NIQUE ET ART",
+    "product_gtin": "0194735259137",
+    "supplier_price": 26.99,
+    "product_link": "https://www.joueclub.fr/poupees/raiponce-poupee-pique-nique-et-art-0194735259137.html"
+  },
+  {
+    "product_name": "SAC A DOS PORTE BEBE",
+    "product_gtin": "3393143404048",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/sac-a-dos-porte-bebe-3393143404048.html"
+  },
+  {
+    "product_name": "SAC A LANGER PRINCESS CORALIE",
+    "product_gtin": "4009847016539",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/sac-a-langer-princess-coralie-4009847016539.html"
+  },
+  {
+    "product_name": "SALOPETTE - 42 CM",
+    "product_gtin": "3393143395681",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/salopette-42-cm-3393143395681.html"
+  },
+  {
+    "product_name": "SANDALES POUR POUPEE - COROLLE MA COROLLE",
+    "product_gtin": "4062013211084",
+    "supplier_price": 10.99,
+    "product_link": "https://www.joueclub.fr/poupees/sandales-pour-poupee-corolle-ma-corolle-4062013211084.html"
+  },
+  {
+    "product_name": "SEASTERS - BUBBLE AQUARIUM AVEC SIRENE",
+    "product_gtin": "8056379119302",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/seasters-bubble-aquarium-avec-sirene-8056379119302.html"
+  },
+  {
+    "product_name": "SECRET FINDEES  MAGIC MAILBOX",
+    "product_gtin": "8720077316898",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/secret-findees-magic-mailbox-8720077316898.html"
+  },
+  {
+    "product_name": "SET PYJAMA PARTY POUR POUPEE",
+    "product_gtin": "3393143400903",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/set-pyjama-party-pour-poupee-3393143400903.html"
+  },
+  {
+    "product_name": "SIEGE DE TABLE POUR POUPON",
+    "product_gtin": "3393143400712",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/siege-de-table-pour-poupon-3393143400712.html"
+  },
+  {
+    "product_name": "SIEGE DE VELO AVEC CASQUE POUR POUPEE",
+    "product_gtin": "3393143403713",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/siege-de-velo-avec-casque-pour-poupee-3393143403713.html"
+  },
+  {
+    "product_name": "SIEGE DE VELO AVEC CASQUE POUR POUPEE DE 45 CM",
+    "product_gtin": "3393143342067",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/siege-de-velo-avec-casque-pour-poupee-de-45-cm-3393143342067.html"
+  },
+  {
+    "product_name": "SKY DANCERS - POUPEE CANDY CUTIE",
+    "product_gtin": "3181860300138",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/sky-dancers-poupee-candy-cutie-3181860300138.html"
+  },
+  {
+    "product_name": "SKY DANCERS - POUPEE FUSCHIA FANTASY",
+    "product_gtin": "3181860300015",
+    "supplier_price": 22.99,
+    "product_link": "https://www.joueclub.fr/poupees/sky-dancers-poupee-fuschia-fantasy-3181860300015.html"
+  },
+  {
+    "product_name": "SKY DANCERS - POUPEE LOVELY LUNA",
+    "product_gtin": "3181860300114",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/sky-dancers-poupee-lovely-luna-3181860300114.html"
+  },
+  {
+    "product_name": "SKY DANCERS - POUPEE MAGIC MIA",
+    "product_gtin": "3181860300350",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/sky-dancers-poupee-magic-mia-3181860300350.html"
+  },
+  {
+    "product_name": "SKY DANCERS - POUPEE RAINBOW ROSE",
+    "product_gtin": "3181860300367",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/sky-dancers-poupee-rainbow-rose-3181860300367.html"
+  },
+  {
+    "product_name": "SKY DANCERS - POUPEE TURQUOISE TWINKLE",
+    "product_gtin": "3181860300060",
+    "supplier_price": 22.99,
+    "product_link": "https://www.joueclub.fr/poupees/sky-dancers-poupee-turquoise-twinkle-3181860300060.html"
+  },
+  {
+    "product_name": "SKY DANCERS - PRETTY POPPY",
+    "product_gtin": "3181860300343",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/sky-dancers-pretty-poppy-3181860300343.html"
+  },
+  {
+    "product_name": "SL BOITE XL FAMILLE",
+    "product_gtin": "4006592585655",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/sl-boite-xl-famille-4006592585655.html"
+  },
+  {
+    "product_name": "STEFFI LOVE - POUPEE FUTURE MAMAN",
+    "product_gtin": "4006592091156",
+    "supplier_price": 22.99,
+    "product_link": "https://www.joueclub.fr/poupees/steffi-love-poupee-future-maman-4006592091156.html"
+  },
+  {
+    "product_name": "SUGAR SURPRISE - COFFRET POUPEE AVEC ACCESSOIRES",
+    "product_gtin": "0021664258316",
+    "supplier_price": 22.99,
+    "product_link": "https://www.joueclub.fr/poupees/sugar-surprise-coffret-poupee-avec-accessoires-0021664258316.html"
+  },
+  {
+    "product_name": "SUPER POUSSETTE",
+    "product_gtin": "3393143394066",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/super-poussette-3393143394066.html"
+  },
+  {
+    "product_name": "SURPRISE TWEENS COSTUME - ALI DANCE",
+    "product_gtin": "0035051504146",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/surprise-tweens-costume-ali-dance-0035051504146.html"
+  },
+  {
+    "product_name": "TARA DUNCAN - POUPEE 28 CM + ACCESSOIRES",
+    "product_gtin": "3700043310018",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/tara-duncan-poupee-28-cm-accessoires-3700043310018.html"
+  },
+  {
+    "product_name": "TETE A COIFFER",
+    "product_gtin": "3393143395537",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/tete-a-coiffer-3393143395537.html"
+  },
+  {
+    "product_name": "TETE A COIFFER ET SES ACCESSOIRES",
+    "product_gtin": "3393143399856",
+    "supplier_price": 16.99,
+    "product_link": "https://www.joueclub.fr/poupees/tete-a-coiffer-et-ses-accessoires-3393143399856.html"
+  },
+  {
+    "product_name": "THAIS - MA POUPEE DU PRINTEMPS 29 CM",
+    "product_gtin": "3393143393908",
+    "supplier_price": 6.99,
+    "product_link": "https://www.joueclub.fr/poupees/thais-ma-poupee-du-printemps-29-cm-3393143393908.html"
+  },
+  {
+    "product_name": "THAIS - MA POUPEE TENDANCE 29 CM",
+    "product_gtin": "3393143393915",
+    "supplier_price": 6.99,
+    "product_link": "https://www.joueclub.fr/poupees/thais-ma-poupee-tendance-29-cm-3393143393915.html"
+  },
+  {
+    "product_name": "THAIS - POUPEE EN CUISINE 29 CM",
+    "product_gtin": "3393143393885",
+    "supplier_price": 29.99,
+    "product_link": "https://www.joueclub.fr/poupees/thais-poupee-en-cuisine-29-cm-3393143393885.html"
+  },
+  {
+    "product_name": "THAIS - POUPEE REVE DE PRINCESSE 29 CM",
+    "product_gtin": "3393143393823",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/thais-poupee-reve-de-princesse-29-cm-3393143393823.html"
+  },
+  {
+    "product_name": "THAIS - POUPEE SIRENE DES OCEANS 29 CM",
+    "product_gtin": "3393143393816",
+    "supplier_price": 13.99,
+    "product_link": "https://www.joueclub.fr/poupees/thais-poupee-sirene-des-oceans-29-cm-3393143393816.html"
+  },
+  {
+    "product_name": "TOILETTES INTERACTIVES",
+    "product_gtin": "3393143404758",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/toilettes-interactives-3393143404758.html"
+  },
+  {
+    "product_name": "TOUT POUR DEJEUNER",
+    "product_gtin": "3393143394288",
+    "supplier_price": 15.99,
+    "product_link": "https://www.joueclub.fr/poupees/tout-pour-dejeuner-3393143394288.html"
+  },
+  {
+    "product_name": "TROLLS  3 - FIGURINE POPPY CHEVEUX PAILLETTES -HAIR POPS",
+    "product_gtin": "0194735138708",
+    "supplier_price": 27.99,
+    "product_link": "https://www.joueclub.fr/poupees/trolls-3-figurine-poppy-cheveux-paillettes-hair-pops-0194735138708.html"
+  },
+  {
+    "product_name": "TROLLS 3  - FIGURINE VIVA SURPRISES 2 EN 1 - HAIR POPS",
+    "product_gtin": "0194735138616",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/trolls-3-figurine-viva-surprises-2-en-1-hair-pops-0194735138616.html"
+  },
+  {
+    "product_name": "TROLLS 3 -  POUPEE POPPY - HAIR POPS",
+    "product_gtin": "0194735138579",
+    "supplier_price": 15.99,
+    "product_link": "https://www.joueclub.fr/poupees/trolls-3-poupee-poppy-hair-pops-0194735138579.html"
+  },
+  {
+    "product_name": "TROLLS 3 - POPPY SURPRISES 2 EN 1- HAIR POPS",
+    "product_gtin": "0194735138555",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/trolls-3-poppy-surprises-2-en-1-hair-pops-0194735138555.html"
+  },
+  {
+    "product_name": "TROLLS 3 - POUPEE VIVA - HAIR POPS",
+    "product_gtin": "0194735138753",
+    "supplier_price": 15.99,
+    "product_link": "https://www.joueclub.fr/poupees/trolls-3-poupee-viva-hair-pops-0194735138753.html"
+  },
+  {
+    "product_name": "TURBULETTE",
+    "product_gtin": "3393143395131",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/turbulette-3393143395131.html"
+  },
+  {
+    "product_name": "TURBULETTE  40 CM",
+    "product_gtin": "3393143014551",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/turbulette-40-cm-3393143014551.html"
+  },
+  {
+    "product_name": "VAIANA - POUPEE VAIANA ET COMPAGNIE",
+    "product_gtin": "0194735304639",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/vaiana-poupee-vaiana-et-compagnie-0194735304639.html"
+  },
+  {
+    "product_name": "VALISE SECRETE DRACULAURA",
+    "product_gtin": "0194735289042",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/valise-secrete-draculaura-0194735289042.html"
+  },
+  {
+    "product_name": "VALISE SECRETE JINAFIRE",
+    "product_gtin": "0194735288892",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/valise-secrete-jinafire-0194735288892.html"
+  },
+  {
+    "product_name": "VALISE SECRETE LAGOONA",
+    "product_gtin": "0194735289004",
+    "supplier_price": 39.99,
+    "product_link": "https://www.joueclub.fr/poupees/valise-secrete-lagoona-0194735289004.html"
+  },
+  {
+    "product_name": "VALISETTE DE BEBE",
+    "product_gtin": "3393143397623",
+    "supplier_price": 13.99,
+    "product_link": "https://www.joueclub.fr/poupees/valisette-de-bebe-3393143397623.html"
+  },
+  {
+    "product_name": "VETEMENT POUPEES - GILET FOURRURE ET JUPE TUTU",
+    "product_gtin": "3393143403751",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/vetement-poupees-gilet-fourrure-et-jupe-tutu-3393143403751.html"
+  },
+  {
+    "product_name": "VETEMENT POUPEES - MANTEAU ROSE",
+    "product_gtin": "3393143399184",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/vetement-poupees-manteau-rose-3393143399184.html"
+  },
+  {
+    "product_name": "VETEMENT POUPEES - PYJAMA ARC EN CIEL",
+    "product_gtin": "3393143399177",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/vetement-poupees-pyjama-arc-en-ciel-3393143399177.html"
+  },
+  {
+    "product_name": "VETEMENT POUPEES - SALOPETTE ET HAUT RAYE",
+    "product_gtin": "3393143403768",
+    "supplier_price": 14.99,
+    "product_link": "https://www.joueclub.fr/poupees/vetement-poupees-salopette-et-haut-raye-3393143403768.html"
+  },
+  {
+    "product_name": "VETEMENT POUPONS - T-SHIRT ANIMAUX ET JEAN",
+    "product_gtin": "3393143403836",
+    "supplier_price": 19.99,
+    "product_link": "https://www.joueclub.fr/poupees/vetement-poupons-t-shirt-animaux-et-jean-3393143403836.html"
+  },
+  {
+    "product_name": "WICKED -  GERSHWIN - POUPEE DELUXE ELPHABA",
+    "product_gtin": "0194735241675",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/wicked-gershwin-poupee-deluxe-elphaba-0194735241675.html"
+  },
+  {
+    "product_name": "WICKED - GERSHWIN - POUPEE DELUXE GLINDA",
+    "product_gtin": "0194735241699",
+    "supplier_price": 59.99,
+    "product_link": "https://www.joueclub.fr/poupees/wicked-gershwin-poupee-deluxe-glinda-0194735241699.html"
+  },
+  {
+    "product_name": "WICKED - POUPEE GLINDA",
+    "product_gtin": "0194735238071",
+    "supplier_price": 31.99,
+    "product_link": "https://www.joueclub.fr/poupees/wicked-poupee-glinda-0194735238071.html"
+  },
+  {
+    "product_name": "WICKED - POUPEE NESSAROSE",
+    "product_gtin": "0194735241682",
+    "supplier_price": 31.99,
+    "product_link": "https://www.joueclub.fr/poupees/wicked-poupee-nessarose-0194735241682.html"
+  },
+  {
+    "product_name": "WINX - POUPEE 26 CM - MODELE FAIRY - AISHA",
+    "product_gtin": "8056379202042",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/winx-poupee-26-cm-modele-fairy-aisha-8056379202042.html"
+  },
+  {
+    "product_name": "WINX - POUPEE 26 CM - MODELE FAIRY - BLOOM",
+    "product_gtin": "8056379202059",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/winx-poupee-26-cm-modele-fairy-bloom-8056379202059.html"
+  },
+  {
+    "product_name": "WINX - POUPEE 26 CM - MODELE FAIRY - FLORA",
+    "product_gtin": "8056379202066",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/winx-poupee-26-cm-modele-fairy-flora-8056379202066.html"
+  },
+  {
+    "product_name": "WINX - POUPEE 26 CM - MODELE FAIRY - MUSA",
+    "product_gtin": "8056379202073",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/winx-poupee-26-cm-modele-fairy-musa-8056379202073.html"
+  },
+  {
+    "product_name": "WINX - POUPEE 26 CM - MODELE FAIRY - STELLA",
+    "product_gtin": "8056379202080",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/winx-poupee-26-cm-modele-fairy-stella-8056379202080.html"
+  },
+  {
+    "product_name": "WINX - POUPEE 26 CM - MODELE FAIRY - TENCA",
+    "product_gtin": "8056379202097",
+    "supplier_price": 21.99,
+    "product_link": "https://www.joueclub.fr/poupees/winx-poupee-26-cm-modele-fairy-tenca-8056379202097.html"
+  },
+  {
+    "product_name": "WINX - POUPEE 26 CM - MODELE ICONIC - TENCA",
+    "product_gtin": "8056379202240",
+    "supplier_price": 16.99,
+    "product_link": "https://www.joueclub.fr/poupees/winx-poupee-26-cm-modele-iconic-tenca-8056379202240.html"
+  },
+  {
+    "product_name": "WINX - POUPEE TENUE DE BAL A ALFEA - BLOOM",
+    "product_gtin": "8056379202141",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/winx-poupee-tenue-de-bal-a-alfea-bloom-8056379202141.html"
+  },
+  {
+    "product_name": "WINX - POUPEE TENUE DE BAL A ALFEA - FLORA",
+    "product_gtin": "8056379202158",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/winx-poupee-tenue-de-bal-a-alfea-flora-8056379202158.html"
+  },
+  {
+    "product_name": "WINX - POUPEE TENUE DE BAL A ALFEA - STELLA",
+    "product_gtin": "8056379202172",
+    "supplier_price": 34.99,
+    "product_link": "https://www.joueclub.fr/poupees/winx-poupee-tenue-de-bal-a-alfea-stella-8056379202172.html"
+  },
+  {
+    "product_name": "YUMMILAND - POUPEE BIANCA CHEWING GUM ET GLOSS",
+    "product_gtin": "0035051120711",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/yummiland-poupee-bianca-chewing-gum-et-gloss-0035051120711.html"
+  },
+  {
+    "product_name": "YUMMILAND - POUPEE CALLIE GATEAU D'ANNIVERSAIRE ET GLOSS",
+    "product_gtin": "0035051120704",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/yummiland-poupee-callie-gateau-d-anniversaire-et-gloss-0035051120704.html"
+  },
+  {
+    "product_name": "YUMMILAND LIPGLOSS - PETITE POUPEE - AVA PARFUM MYSTERE",
+    "product_gtin": "0035051526414",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/yummiland-lipgloss-petite-poupee-ava-parfum-mystere-0035051526414.html"
+  },
+  {
+    "product_name": "YUMMILAND LIPGLOSS - PETITE POUPEE - BRITNEY BOBA",
+    "product_gtin": "0035051525455",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/yummiland-lipgloss-petite-poupee-britney-boba-0035051525455.html"
+  },
+  {
+    "product_name": "YUMMILAND LIPGLOSS - PETITE POUPEE - NIA BARBE A PAPA",
+    "product_gtin": "0035051525462",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/yummiland-lipgloss-petite-poupee-nia-barbe-a-papa-0035051525462.html"
+  },
+  {
+    "product_name": "YUMMILAND NUM NOM PARFUMS ROLL-ON",
+    "product_gtin": "0035051526476",
+    "supplier_price": 6.99,
+    "product_link": "https://www.joueclub.fr/poupees/yummiland-num-nom-parfums-roll-on-0035051526476.html"
+  },
+  {
+    "product_name": "YUMMILAND POUPEE + GLOSS SERIE 2 -  CANNELLE  -AMBER",
+    "product_gtin": "0035051525615",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/yummiland-poupee-gloss-serie-2-cannelle-amber-0035051525615.html"
+  },
+  {
+    "product_name": "YUMMILAND POUPEE + GLOSS SERIE 2 -  PARFUM MYSTERE 2 AVERY",
+    "product_gtin": "0035051534563",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/yummiland-poupee-gloss-serie-2-parfum-mystere-2-avery-0035051534563.html"
+  },
+  {
+    "product_name": "YUMMILAND POUPEE + GLOSS SERIE 2 - REGLISSE - SUSIE",
+    "product_gtin": "0035051525479",
+    "supplier_price": 12.99,
+    "product_link": "https://www.joueclub.fr/poupees/yummiland-poupee-gloss-serie-2-reglisse-susie-0035051525479.html"
+  },
+  {
+    "product_name": "ZOMBAES - PACK DE 2 POUPEES WILD VIBES REST IN SHOW",
+    "product_gtin": "0778988432396",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/zombaes-pack-de-2-poupees-wild-vibes-rest-in-show-0778988432396.html"
+  },
+  {
+    "product_name": "ZOMBAES WILD VIBES - PACK DE 2 WILD VIBES BIG CAT UN-RESCUE",
+    "product_gtin": "0778988432402",
+    "supplier_price": 24.99,
+    "product_link": "https://www.joueclub.fr/poupees/zombaes-wild-vibes-pack-de-2-wild-vibes-big-cat-un-rescue-0778988432402.html"
   }
 ]
